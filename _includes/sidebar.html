@@ -1,0 +1,24 @@
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src= "{{ s.image }}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    {% endfor %}
+  {% endif %}
+  <span id="last_updated"> </span>
+</div>  
+{% endif %}
+
+<script>
+  const monthNames = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"
+  ];
+  var modiDate = new Date(document.lastModified);
+  var showAs = "Last Updated: " + modiDate.getDate() + " " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear() ;
+  // var showAs = modiDate.getDate() + " " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear() + " " + modiDate.getHours().toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false }) + ":" + modiDate.getMinutes().toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false }) + ":" + modiDate.getSeconds().toLocaleString('en-US', { minimumIntegerDigits: 2, useGrouping: false });
+  document.getElementById("last_updated").innerHTML = showAs;
+</script>
