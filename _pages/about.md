@@ -193,7 +193,12 @@ Apart from my research and academic stuffs, I enjoy following cricket, playing b
 </ul>
 
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=240&t=tt&d=KbAAVdH05WgIVyOJheLnVrNP3J7FZQz_OpwEcMjij9s&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
 
+
+
+
+<br>
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
