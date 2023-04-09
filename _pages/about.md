@@ -145,7 +145,9 @@ Apart from my research and academic stuffs, I enjoy following cricket, playing b
     B.Sc in Computer Science and Engineering<br>
     January, 2016 - January, 2020 <br>
     <strong> CGPA: 3.96 out of 4.00 (Class Rank: 1<sup>st</sup>) </strong> <br>
-    University of Dhaka |  <a href="http://www.cse.du.ac.bd/wp-content/uploads/2021/01/Syllabus_2015-16.pdf" target="\_blank"> Undergraduate Curriculum </a>
+    University of Dhaka,
+    Dhaka, Bangladesh <br>
+      <a href="http://www.cse.du.ac.bd/wp-content/uploads/2021/01/Syllabus_2015-16.pdf" target="\_blank"> Undergraduate Curriculum </a>
   </li>
 
 </ul>
