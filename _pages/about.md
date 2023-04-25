@@ -41,7 +41,7 @@ My undergraduate research topic was Utility-based Graph Mining, supervised by
 <a href="https://scholar.google.fr/citations?hl=en&user=0huuef0AAAAJ"> 
 Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citations?user=UD5-rcAAAAAJ&hl"> Md. Ashraful Islam  </a>.  </p>
 
-Apart from my research and academic stuffs, I enjoy following cricket, playing badminton and card games. 
+Apart from my research and academic stuffs, I enjoy following and analyzing cricket, playing badminton and card games. 
 
 
 # 📰 News
