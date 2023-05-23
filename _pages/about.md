@@ -19,7 +19,7 @@ redirect_from:
 
 
 <p align="justify"> 
-I am a first-year Ph.D. student in the Computer Science department at <a href="https://www.cs.purdue.edu/">Purdue University</a>, advised by Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a>. My research focus is machine learning on graphs.
+I am a first-year Ph.D. student in the Computer Science department at <a href="https://www.cs.purdue.edu/">Purdue University</a>, advised by Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a>. My research focus is deep learning on graphs and currently working on the graph anomaly detection problem.
 
 Prior to joining Purdue, I have worked as a research assistant in the <a href="https://agencylab.github.io/">Artificial Intelligence and Cybernetics Lab (AGenCy Lab)</a> at Independent University Bangladesh where I worked on several research projects related to deep learning on graph data supported by ICT Division, Government of Bangladesh. 
 Thanks to my supervisors <a href="https://scholar.google.com/citations?user=OqlqQTwAAAAJ&hl"> Dr. Amin Ahsan Ali</a> and <a href="https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl"> Dr. AKM Mahbubur Rahman</a>. Also, 
