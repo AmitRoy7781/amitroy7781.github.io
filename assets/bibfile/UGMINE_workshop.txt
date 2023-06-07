@@ -1,0 +1,9 @@
+@inproceedings{alam2021mining,
+  title={Mining high utility subgraphs},
+  author={Alam, Md Tanvir and Roy, Amit and Ahmed, Chowdhury Farhan and Islam, Md Ashraful and Leung, Carson K},
+  booktitle={2021 International Conference on Data Mining Workshops (ICDMW)},
+  pages={566--573},
+  year={2021},
+  organization={IEEE}
+}
+

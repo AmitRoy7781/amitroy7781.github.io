@@ -1,0 +1,6 @@
+@article{roy2021node,
+  title={Node Embedding using Mutual Information and Self-Supervision based Bi-level Aggregation},
+  author={Roy, Kashob Kumar and Roy, Amit and Rahman, AKM and Amin, M Ashraful and Ali, Amin Ahsan},
+  journal={arXiv preprint arXiv:2104.13014},
+  year={2021}
+}

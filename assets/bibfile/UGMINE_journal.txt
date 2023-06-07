@@ -1,0 +1,11 @@
+@article{alam2023ugmine,
+  title={UGMINE: utility-based graph mining},
+  author={Alam, Md Tanvir and Roy, Amit and Ahmed, Chowdhury Farhan and Islam, Md Ashraful and Leung, Carson K},
+  journal={Applied Intelligence},
+  volume={53},
+  number={1},
+  pages={49--68},
+  year={2023},
+  publisher={Springer}
+}
+
