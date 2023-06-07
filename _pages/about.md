@@ -67,7 +67,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 
 # 📝 Publications 
 
- <ul>
+  <ul>
 
   <li>
     <p align="justify">
@@ -78,7 +78,9 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     [<a href="https://arxiv.org/abs/2104.12518" target="\_blank"> Paper </a>]
     [<a href="https://github.com/AmitRoy7781/USTGCN" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/95EJAFOsUmY" target="\_blank"> Video </a>]
-  </p>
+    [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:QRuyQVcslqIJ:scholar.google.com/&output=citation&scisdr=Cm0PZFwMEP7u5yT9BBM:AGlGAw8AAAAAZID7HBJfx4oX3Q1qONblSbKmDbc&scisig=AGlGAw8AAAAAZID7HNKweGcBM_CAYhcK-X48sm8&scisf=4&ct=citation&cd=-1&hl=en" target="\_blank"> BibTex </a>]
+    </p>
+
   </li>
   
   
@@ -92,6 +94,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     [<a href="https://arxiv.org/abs/2104.00055" target="\_blank"> Paper </a>]
     [<a href="https://github.com/AmitRoy7781/SST-GNN" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/Vl4P5IfbuE4" target="\_blank"> Video </a>]
+    [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:dKhl0akwOkgJ:scholar.google.com/&output=citation&scisdr=Cm0PZFwMEP7u5yT9msQ:AGlGAw8AAAAAZID7gsVR8vFZrZztYFm4yg6un00&scisig=AGlGAw8AAAAAZID7gs6jzm3m9tMg87hk3LGDiKw&scisf=4&ct=citation&cd=-1&hl=en" target="\_blank"> BibTex </a>]
     
   </p>
   </li>
@@ -105,6 +108,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     [<a href="https://arxiv.org/abs/2104.13014" target="\_blank"> Paper </a>]
     [<a href="https://github.com/forkkr/LnL-GNN" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/dVAm6GgIMzQ" target="\_blank"> Video </a>]
+    [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:840jEkMWs7oJ:scholar.google.com/&output=citation&scisdr=Cm0PZFwMEP7u5yT9p98:AGlGAw8AAAAAZID7v94RMbvzgxbKGjKfkN54muA&scisig=AGlGAw8AAAAAZID7v6lrkLjgckcO45PUzaYqRvw&scisf=4&ct=citation&cd=-1&hl=en" target="\_blank"> BibTex </a>]
   </p>
   </li>
   
@@ -117,6 +121,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     [<a href="https://arxiv.org/abs/2104.13012" target="\_blank"> Paper </a>]
     [<a href="https://github.com/forkkr/HIBPool" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/L3amRKyaCsw" target="\_blank"> Video </a>]
+    [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:puuC8xG0NWsJ:scholar.google.com/&output=citation&scisdr=Cm0PZFwMEP7u5yT97T4:AGlGAw8AAAAAZID79T-drDSIJcA0Mjwq9g68jUQ&scisig=AGlGAw8AAAAAZID79WYvpRJLgjY-8ZL787kb6OU&scisf=4&ct=citation&cd=-1&hl=en" target="\_blank"> BibTex </a>]
   </p>
   </li>
 
@@ -127,7 +132,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     UDML 2021: 4th Workshop on Utility Driven Mining and Learning @ICDM 2021, Publisher: IEEE <br> December 7, 2021, Auckland, New Zealand (virtual) 
     [<a href="https://ieeexplore.ieee.org/document/9679947/" target="\_blank"> Proceedings </a>]
     [<a href="https://drive.google.com/file/d/1S7DcKlQQa1ur4hlD_tW1HOTpQQJ-NKDs/" target="\_blank"> Paper </a>]
-
+    [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:kyWhEkwTjLAJ:scholar.google.com/&output=citation&scisdr=Cm0PZFwMEP7u5yT_xvs:AGlGAw8AAAAAZID53vpUQBReOPJyFulxoOn13h4&scisig=AGlGAw8AAAAAZID53rPgNcLwU1uMrvV6-WyrOuQ&scisf=4&ct=citation&cd=-1&hl=en" target="\_blank"> BibTex </a>]
   </p>
   </li>
 
@@ -139,12 +144,11 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     <b> Impact Factor: 5.086 </b> , Publisher: Springer, April 12, 2022
     [<a href="https://link.springer.com/article/10.1007/s10489-022-03385-8" target="\_blank"> Proceedings </a>]
     [<a href="https://drive.google.com/file/d/1X28IATu4Ee4myM6j0LMGSVMeqN8Aotpv/" target="\_blank"> Paper </a>]
+    [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:-ZOQyJap8osJ:scholar.google.com/&output=citation&scisdr=Cm0PZFwMEP7u5yT8KBk:AGlGAw8AAAAAZID6MBjayTJTaSYiCMQZs5CS2Zc&scisig=AGlGAw8AAAAAZID6MCfQXASedPLCgb9st1dXa1Y&scisf=4&ct=citation&cd=-1&hl=en" target="\_blank"> BibTex </a>]
   </p>
   </li>
 
-</ul>
-
-# 🎓 Education
+</ul># 🎓 Education
 
 <ul>
   <li>
