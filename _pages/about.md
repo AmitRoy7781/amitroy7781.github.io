@@ -187,7 +187,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 </ul>
 
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 <ul>
   <li>
     <strong> Professor Dr. M. Lutfar Rahman Award</strong><br>
