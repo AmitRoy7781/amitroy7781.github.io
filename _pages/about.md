@@ -164,7 +164,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     <strong> CGPA: 3.96 out of 4.00 (Class Rank: 1<sup>st</sup>) </strong> <br>
     University of Dhaka,
     Dhaka, Bangladesh <br>
-      <a href="http://www.cse.du.ac.bd/wp-content/uploads/2021/01/Syllabus_2015-16.pdf" target="\_blank"> Undergraduate Curriculum </a>
+      <a href="https://amitroy7781.github.io/Syllabus_2015-16.pdf" target="\_blank"> Undergraduate Curriculum </a>
   </li>
 
 </ul>
