@@ -177,6 +177,16 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 
 # 💻 Experience
 
+#  Teaching Experience
+<ul>
+  <li>
+    <strong> </strong> 
+    CS57800 Statistical Machine Learning, Fall 2023<br> 
+    
+  </li>
+</ul>
+
+
 #  Industry Experience
 
 <ul>
@@ -196,6 +206,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     <br> Dhaka, Bangladesh
   </li>
 </ul>
+
 
 
 # 🎖️ Honors and Awards
