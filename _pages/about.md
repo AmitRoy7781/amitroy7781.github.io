@@ -134,7 +134,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     <p align="justify">
     <b>Mining High Utility Subgraphs</b> <br>
     Md. Tanvir Alam, <b> Amit Roy</b>, Chowdhury Farhan Ahmed, Md. Ashraful Islam, Carson K. Leung,<br>
-    UDML 2021: 4th Workshop on Utility Driven Mining and Learning @ICDM 2021, Publisher: IEEE <br> December 7, 2021, Auckland, New Zealand (virtual) 
+    UDML 2021: 4th Workshop on Utility Driven Mining and Learning @ICDM 2021, Publisher: IEEE <br> December 7, 2021, Auckland, New Zealand (virtual) </br>
     [<a href="https://ieeexplore.ieee.org/document/9679947/" target="\_blank"> Proceedings </a>]
     [<a href="https://drive.google.com/file/d/1S7DcKlQQa1ur4hlD_tW1HOTpQQJ-NKDs/" target="\_blank"> Paper </a>]     [<a href="https://github.com/tfahim15/UGMINE" target="\_blank">Code</a>]
     [<a href="assets/bibfile/UGMINE_journal.txt" target="\_blank"> BibTex </a>]
@@ -146,7 +146,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     <b>UGMINE: Utility-based Graph Mining</b> <br>
     Md. Tanvir Alam, <b>Amit Roy</b>, Chowdhury Farhan Ahmed, Md. Ashraful Islam, Carson K. Leung, <br>
     Applied Intelligence Journal,
-    <b> Impact Factor: 5.086 </b> , Publisher: Springer, April 12, 2022
+    <b> Impact Factor: 5.086 </b> , Publisher: Springer, April 12, 2022 </br>
     [<a href="https://link.springer.com/article/10.1007/s10489-022-03385-8" target="\_blank"> Proceedings </a>]
     [<a href="https://drive.google.com/file/d/1X28IATu4Ee4myM6j0LMGSVMeqN8Aotpv/" target="\_blank"> Paper </a>]
     [<a href="https://github.com/tfahim15/UGMINE" target="\_blank">Code</a>]
