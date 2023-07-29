@@ -178,10 +178,12 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 # 💻 Experience
 
 #  Teaching Experience
+Teaching Assistant, Department of Computer Science Computer Science, Purdue University
 <ul>
   <li>
     <strong> </strong> 
-    CS57800 Statistical Machine Learning, Fall 2023<br> 
+    CS57800 : Statistical Machine Learning, Fall 2023<br>
+    Instructor: Prof. Ruqi Zhang 
     
   </li>
 </ul>
