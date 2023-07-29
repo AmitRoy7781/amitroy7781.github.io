@@ -178,7 +178,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 # 💻 Experience
 
 #  Teaching Experience
-Teaching Assistant, Department of Computer Science Computer Science, Purdue University
+Teaching Assistant, Department of Computer Science, Purdue University
 <ul>
   <li>
     <strong> </strong> 
