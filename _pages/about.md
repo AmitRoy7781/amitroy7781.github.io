@@ -169,7 +169,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     [<a href="assets/bibfile/UGMINE_workshop.txt" target="\_blank"> BibTex </a>]
   </p>
   </li>
-  </ul>
+  
 
 </ul>
 
