@@ -74,6 +74,22 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 
  <ul>
 
+<li>
+    <p align="justify">
+    <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> <br>
+    <b>Amit Roy</b><sup>*</sup>, Juan Shu, Jia Li, Carl Yang, Olivier	Elshocht, Jeroen	Smeets, Pan	Li <br>
+    The International Joint Conference on Neural Networks (IJCNN-2021),  Publisher: IEEE, Virtual Event, July 18-22, 2021 <br>
+    [<a href="" target="\_blank"> Proceedings </a>]
+    [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
+    [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
+    [<a href="" target="\_blank"> Video </a>]
+    [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
+    </p>
+
+  </li>
+
+ ## Before joining Purdue:
+ 
   <li>
     <p align="justify">
     <b>Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network</b> <br>
@@ -126,7 +142,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     [<a href="https://arxiv.org/abs/2104.13012" target="\_blank"> Paper </a>]
     [<a href="https://github.com/forkkr/HIBPool" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/L3amRKyaCsw" target="\_blank"> Video </a>]
-    [<a href="assets/bibfile/LNLGNN.txt" target="\_blank"> BibTex </a>]
+    [<a href="assets/bibfile/HIBPool.txt" target="\_blank"> BibTex </a>]
   </p>
   </li>
 
@@ -153,6 +169,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
     [<a href="assets/bibfile/UGMINE_workshop.txt" target="\_blank"> BibTex </a>]
   </p>
   </li>
+  </ul>
 
 </ul>
 
@@ -227,11 +244,3 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=240&t=tt&d=KbAAVdH05WgIVyOJheLnVrNP3J7FZQz_OpwEcMjij9s&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
-
-
-
-
-
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
