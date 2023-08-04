@@ -74,7 +74,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 
  <ul>
 
-<li>
+<!-- <li>
     <p align="justify">
     <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> <br>
     <b>Amit Roy</b><sup>*</sup>, Juan Shu, Jia Li, Carl Yang, Olivier	Elshocht, Jeroen	Smeets, Pan	Li <br>
@@ -88,7 +88,7 @@ Apart from my research and academic stuffs, I enjoy following and analyzing cric
 
   </li>
 
- ## Before joining Purdue:
+ ## Before joining Purdue: -->
  
   <li>
     <p align="justify">
