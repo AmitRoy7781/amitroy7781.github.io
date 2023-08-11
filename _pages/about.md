@@ -26,7 +26,7 @@ I am a first-year Ph.D. student in the <a href="https://www.cs.purdue.edu/">Purd
    
 
 <p align="justify"> 
-Prior to joining Purdue, I worked as a research assistant in the <a href="https://agencylab.github.io/">Artificial Intelligence and Cybernetics Lab (AGenCy Lab)</a> at the Independent University Bangladesh where I worked on several research projects related to deep learning on graph data supported by ICT Division, Government of Bangladesh. Thanks to my supervisors <a href="https://scholar.google.com/citations?user=OqlqQTwAAAAJ&hl"> Dr. Amin Ahsan Ali</a> and <a href="https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl"> Dr. AKM Mahbubur Rahman</a>. Also, I have experience working as a software engineer at <a href="http://www.tigerit.com/"> Tiger IT Bangladesh Limited</a> where I worked as a backend developer on applied computer vision projects from real-time video data. </p>
+Prior to joining Purdue, I worked as a research assistant in the <a href="https://agencylab.github.io/">Artificial Intelligence and Cybernetics Lab (AGenCy Lab)</a> at the <a href="http://www.cse.iub.edu.bd/">Department of Computer Science and Engineering</a>, <a href="http://www.iub.edu.bd/" >Independent University Bangladesh</a> where I worked on several research projects related to deep learning on graph data supported by ICT Division, Government of Bangladesh. Thanks to my supervisors <a href="https://scholar.google.com/citations?user=OqlqQTwAAAAJ&hl"> Dr. Amin Ahsan Ali</a> and <a href="https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl"> Dr. AKM Mahbubur Rahman</a>. Also, I have experience working as a software engineer at <a href="http://www.tigerit.com/"> Tiger IT Bangladesh Limited</a> where I worked as a backend developer on applied computer vision projects from real-time video data. </p>
 
 
        
@@ -59,7 +59,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
   <p align="justify">
     <li><strong> [Apr 2022] </strong> 
-      Offered <b>Ross Fellowship</b> and selected for <b>Research Assistantship (RA)</b> position by the Purdue University - Computer Science.
+      Offered <b><a href="https://www.purdue.edu/gradschool/fellowship/fellowship-resources-for-staff/managed-fellowships/recruitment-fellowships.html">Ross Fellowship</a></b> and selected for <b>Research Assistantship (RA)</b> position by the Purdue University - Computer Science.
     </li>
   </p>
 
