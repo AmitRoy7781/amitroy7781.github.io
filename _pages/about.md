@@ -43,7 +43,9 @@ My undergraduate research topic was Utility-based Graph Mining, supervised by
 <a href="https://scholar.google.fr/citations?hl=en&user=0huuef0AAAAJ"> 
 Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citations?user=UD5-rcAAAAAJ&hl"> Md. Ashraful Islam  </a>.  </p>
 
-Apart from my research and academic stuff, I enjoy following and analyzing cricket, playing badminton and card games. 
+Apart from my research and academic stuff, I enjoy following and analyzing cricket and playing badminton and card games. 
+
+$$\color{red} \text{I am actively looking for a research internship role in deep learning for the Summer 2024 (May 2024-August 2024).}$$
 
 
 # 📰 News
@@ -71,21 +73,20 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
  <ul>
 
-<!-- <li>
+## Pre-prints:
+
+  <li>
     <p align="justify">
-    <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> <br>
+    <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> (Under Review) <br>
     <b>Amit Roy</b><sup>*</sup>, Juan Shu, Jia Li, Carl Yang, Olivier	Elshocht, Jeroen	Smeets, Pan	Li <br>
-    The International Joint Conference on Neural Networks (IJCNN-2021),  Publisher: IEEE, Virtual Event, July 18-22, 2021 <br>
-    [<a href="" target="\_blank"> Proceedings </a>]
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
     [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
-    [<a href="" target="\_blank"> Video </a>]
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
     </p>
-
   </li>
 
- ## Before joining Purdue: -->
+  
+ ## Before joining Purdue:
  
   <li>
     <p align="justify">
