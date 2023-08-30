@@ -83,6 +83,14 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
     </p>
   </li>
+
+   <li>
+    <p align="justify">
+    <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> (Under Review) <br>
+    <b>Amit Roy</b><sup>*</sup>, Juan Shu, Jia Li, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
+    [To Appear]
+    </p>
+  </li>
  </ul>
   
 ## Before joining Purdue:
