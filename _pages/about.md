@@ -87,7 +87,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
    <li>
     <p align="justify">
     <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> (Under Review) <br>
-    <b>Amit Roy</b>, Juan Shu, Jia Li, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
+    <b>Amit Roy</b>, Juan Shu, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
     [To Appear]
     </p>
   </li>
