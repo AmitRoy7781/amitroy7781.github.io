@@ -178,6 +178,8 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
 </ul>
 
+* indicates Equal Contribution
+
 # 🎓 Education
 
 <ul>
