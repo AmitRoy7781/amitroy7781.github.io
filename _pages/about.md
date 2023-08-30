@@ -45,7 +45,7 @@ Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citation
 
 Apart from my research and academic stuff, I enjoy following and analyzing cricket and playing badminton and card games. 
 
-<font color="red"> I am actively looking for a deep learning research internship role for the Summer of 2024 (May 2024-August 2024).</font>
+<font color="red"> I am actively looking for deep learning science research internship roles for the Summer of 2024 (May 2024-August 2024).</font>
 
 
 # 📰 News
@@ -104,7 +104,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
   
   <li>
     <p align="justify">
-    <b>SST-GNN: Simplified Spatio-temporal Traffic forecasting model using Graph Neural Network</b> <br>
+    <b>SST-GNN: Simplified Spatio-temporal Traffic Forecasting Model using Graph Neural Network</b> <br>
     <b>Amit Roy</b><sup>*</sup>, Kashob Kumar Roy<sup>*</sup>, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman, <br>
     The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021), Publisher: Springer,<br>
     May 11-14, 2021, Delhi, India (virtual). <br>
@@ -197,7 +197,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 <ul>
   <li>
     <strong> </strong> 
-    CS57800 : Statistical Machine Learning, Fall 2023<br>
+    CS57800: Statistical Machine Learning, Fall 2023<br>
     Instructor: Prof. Ruqi Zhang 
     
   </li>
