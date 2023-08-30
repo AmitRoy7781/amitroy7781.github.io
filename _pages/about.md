@@ -85,7 +85,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
   </li>
  </ul>
   
- ## Before joining Purdue:
+## Before joining Purdue:
  <ul>
   <li>
     <p align="justify">
