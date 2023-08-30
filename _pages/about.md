@@ -71,10 +71,9 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
 # 📝 Publications 
 
- <ul>
 
 ## Pre-prints:
-
+ <ul>
   <li>
     <p align="justify">
     <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> (Under Review) <br>
@@ -84,10 +83,10 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
     </p>
   </li>
-
+ </ul>
   
  ## Before joining Purdue:
- 
+ <ul>
   <li>
     <p align="justify">
     <b>Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network</b> <br>
