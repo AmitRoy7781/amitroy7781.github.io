@@ -45,7 +45,7 @@ Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citation
 
 Apart from my research and academic stuff, I enjoy following and analyzing cricket and playing badminton and card games. 
 
-<font color="red"> I am actively looking for deep learning science research internship roles for the Summer of 2024 (May 2024-August 2024).</font>
+<font color="red"> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</font>
 
 
 # 📰 News
