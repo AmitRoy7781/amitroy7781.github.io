@@ -77,7 +77,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
   <li>
     <p align="justify">
     <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> (Under Review) <br>
-    <b>Amit Roy</b><sup>*</sup>, Juan Shu, Jia Li, Carl Yang, Olivier	Elshocht, Jeroen	Smeets, Pan	Li <br>
+    <b>Amit Roy</b>, Juan Shu, Jia Li, Carl Yang, Olivier	Elshocht, Jeroen	Smeets, Pan	Li <br>
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
     [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
@@ -87,7 +87,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
    <li>
     <p align="justify">
     <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> (Under Review) <br>
-    <b>Amit Roy</b><sup>*</sup>, Juan Shu, Jia Li, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
+    <b>Amit Roy</b>, Juan Shu, Jia Li, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
     [To Appear]
     </p>
   </li>
