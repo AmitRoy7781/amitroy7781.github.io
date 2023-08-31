@@ -26,7 +26,7 @@ I am a Ph.D. student in the <a href="https://www.cs.purdue.edu/">Purdue Computer
    
 
 <p align="justify"> 
-Prior to joining Purdue, I worked as a research assistant in the <a href="https://agencylab.github.io/">Artificial Intelligence and Cybernetics Lab (AGenCy Lab)</a> at the <a href="http://www.cse.iub.edu.bd/">Department of Computer Science and Engineering</a>, <a href="http://www.iub.edu.bd/" >Independent University Bangladesh</a> where I worked on several research projects related to deep learning on graph data supported by ICT Division, Government of Bangladesh. Thanks to my supervisors <a href="https://scholar.google.com/citations?user=OqlqQTwAAAAJ&hl"> Dr. Amin Ahsan Ali</a> and <a href="https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl"> Dr. AKM Mahbubur Rahman</a>. Also, I have experience working as a software engineer at <a href="http://www.tigerit.com/"> Tiger IT Bangladesh Limited</a> where I worked as a backend developer on applied computer vision projects from real-time video data. </p>
+Prior to joining Purdue in the Fall of 2022, I worked as a research assistant in the <a href="https://agencylab.github.io/">Artificial Intelligence and Cybernetics Lab (AGenCy Lab)</a> at the <a href="http://www.cse.iub.edu.bd/">Department of Computer Science and Engineering</a>, <a href="http://www.iub.edu.bd/" >Independent University Bangladesh</a> where I worked on several research projects related to deep learning on graph data supported by ICT Division, Government of Bangladesh. Thanks to my supervisors <a href="https://scholar.google.com/citations?user=OqlqQTwAAAAJ&hl"> Dr. Amin Ahsan Ali</a> and <a href="https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl"> Dr. AKM Mahbubur Rahman</a>. Also, I have experience working as a software engineer at <a href="http://www.tigerit.com/"> Tiger IT Bangladesh Limited</a> where I worked as a backend developer on applied computer vision projects from real-time video data. </p>
 
 
        
@@ -183,6 +183,15 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 # 🎓 Education
 
 <ul>
+  <li>
+    Ph.D. Student in Department of Computer Science<br>
+    August, 2022 - April, 2027 (Expected) <br>
+    <strong> Current CGPA: 3.88 out of 4.00 <br> </strong>
+    Purdue University
+    West Lafayette, IN, USA <br>
+      <a href="https://www.cs.purdue.edu/people/graduate-students/roy206.html" target="\_blank"> Grad School Webpage </a>
+  </li>
+  
   <li>
     B.Sc in Computer Science and Engineering<br>
     January, 2016 - January, 2020 <br>
