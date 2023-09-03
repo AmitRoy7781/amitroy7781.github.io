@@ -90,6 +90,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
     [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
+    <img src="https://img.shields.io/github/stars/graph-com/GAD-NR?style=social" alt="">
     </p>
   </li>
  </ul>
@@ -106,6 +107,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="https://github.com/AmitRoy7781/USTGCN" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/95EJAFOsUmY" target="\_blank"> Video </a>]
     [<a href="assets/bibfile/USTGCN.txt" target="\_blank"> BibTex </a>]
+    <img src="https://img.shields.io/github/stars/AmitRoy7781/USTGCN?style=social" alt="">  
     </p>
 
   </li>
@@ -122,7 +124,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="https://github.com/AmitRoy7781/SST-GNN" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/Vl4P5IfbuE4" target="\_blank"> Video </a>]
     [<a href="assets/bibfile/SSTGNN.txt" target="\_blank"> BibTex </a>]
-    
+    <img src="https://img.shields.io/github/stars/AmitRoy7781/SST-GNN?style=social" alt="">      
   </p>
   </li>
 
@@ -136,6 +138,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="https://github.com/forkkr/LnL-GNN" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/dVAm6GgIMzQ" target="\_blank"> Video </a>]
     [<a href="assets/bibfile/LNLGNN.txt" target="\_blank"> BibTex </a>]
+    <img src="https://img.shields.io/github/stars/forkkr/LnL-GNN?style=social" alt="">    
   </p>
   </li>
   
@@ -149,6 +152,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="https://github.com/forkkr/HIBPool" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/L3amRKyaCsw" target="\_blank"> Video </a>]
     [<a href="assets/bibfile/HIBPool.txt" target="\_blank"> BibTex </a>]
+    <img src="https://img.shields.io/github/stars/forkkr/HIBpool?style=social" alt="">      
   </p>
   </li>
 
@@ -160,6 +164,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="https://ieeexplore.ieee.org/document/9679947/" target="\_blank"> Proceedings </a>]
     [<a href="https://drive.google.com/file/d/1S7DcKlQQa1ur4hlD_tW1HOTpQQJ-NKDs/" target="\_blank"> Paper </a>]     [<a href="https://github.com/tfahim15/UGMINE" target="\_blank">Code</a>]
     [<a href="assets/bibfile/UGMINE_workshop.txt" target="\_blank"> BibTex </a>]
+    <img src="https://img.shields.io/github/stars/tfahim15/UGMINE?style=social" alt="">      
   </p>
   </li>
 
@@ -173,6 +178,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="https://drive.google.com/file/d/1X28IATu4Ee4myM6j0LMGSVMeqN8Aotpv/" target="\_blank"> Paper </a>]
     [<a href="https://github.com/tfahim15/UGMINE" target="\_blank">Code</a>]
     [<a href="assets/bibfile/UGMINE_journal.txt" target="\_blank"> BibTex </a>]
+      <img src="https://img.shields.io/github/stars/tfahim15/UGMINE?style=social" alt="">
   </p>
   </li>
   
