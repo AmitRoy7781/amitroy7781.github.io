@@ -30,7 +30,6 @@ Prior to joining Purdue in the Fall of 2022, I worked as a research assistant in
 
 
        
-       
 <!-- <p align="justify"> In AGenCy Lab, I published works on node and graph classification problems
 as well as Spatio-temporal traffic forecasting using GNNs in PAKDD - 2021 and IJCNN - 2021. Thanks to my supervisors <a href="http://www.cse.iub.edu.bd/faculties/53"> Dr. Amin Ahsan Ali</a> and 
 <a href="http://www.cse.iub.edu.bd/faculties/56"> Dr. AKM Mahbubur Rahman</a> </p>
@@ -43,7 +42,7 @@ My undergraduate research topic was Utility-based Graph Mining, supervised by
 <a href="https://scholar.google.fr/citations?hl=en&user=0huuef0AAAAJ"> 
 Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citations?user=UD5-rcAAAAAJ&hl"> Md. Ashraful Islam  </a>.  </p>
 
-Apart from my research and academic stuff, I enjoy following and analyzing cricket, playing badminton and card games. 
+Apart from my research and academic stuff, I enjoy following and analyzing cricket and playing badminton and card games. 
 
 <font color="red"> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</font>
 
@@ -194,7 +193,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 <ul>
   <li>
     Ph.D. Student in Department of Computer Science<br>
-    August, 2022 - April, 2027 (Expected) <br>
+    August, 2022 - May, 2027 (Expected) <br>
     <strong> Current CGPA: 3.88 out of 4.00 <br> </strong>
     Purdue University
     West Lafayette, IN, USA <br>
