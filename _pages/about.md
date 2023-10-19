@@ -54,7 +54,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
   <p align="justify">
     <li><strong> [Oct 2023] </strong> 
-      My work GAD-NR got accepted in the WSDM-2024, Thanks to Prof. Pan Li and collaborator Juan Shu.
+    GAD-NR got accepted in the WSDM-2024, Thanks to Prof. Pan Li and collaborator Juan Shu.
     </li>
     <li><strong> [Aug 2022] </strong> 
       Joined in the Ph.D. program at Purdue University - Computer Science.
