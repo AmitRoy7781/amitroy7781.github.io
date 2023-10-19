@@ -87,7 +87,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
   
   <li>
     <p align="justify">
-    <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> (Under Review) <br>
+    <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> <br>
     <b>Amit Roy</b>, Juan Shu, Jia Li, Carl Yang, Olivier	Elshocht, Jeroen	Smeets, Pan	Li <br>
     The 17th ACM International Conference on Web Search and Data Mining (WSDM-2024) <br>
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
