@@ -60,6 +60,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
       Joined in the Ph.D. program at Purdue University - Computer Science.
     </li>
   </p>
+  
 
   <p align="justify">
     <li><strong> [Apr 2022] </strong> 
@@ -84,7 +85,11 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [To Appear]
     </p>
   </li>
-  
+</ul>
+
+## Accepted Manuscripts:
+
+<ul>
   <li>
     <p align="justify">
     <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> <br>
