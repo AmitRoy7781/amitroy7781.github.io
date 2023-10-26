@@ -95,6 +95,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> <br>
     <b>Amit Roy</b>, Juan Shu, Jia Li, Carl Yang, Olivier	Elshocht, Jeroen	Smeets, Pan	Li <br>
     The 17th ACM International Conference on Web Search and Data Mining (WSDM-2024) <br>
+    March 4th-8th, 2024, Mérida, Yucatán, Mexico <br>
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
     [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
@@ -109,7 +110,8 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <p align="justify">
     <b>Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network</b> <br>
     <b>Amit Roy</b><sup>*</sup>, Kashob Kumar Roy<sup>*</sup>, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman <br>
-    The International Joint Conference on Neural Networks (IJCNN-2021),  Publisher: IEEE, Virtual Event, July 18-22, 2021 <br>
+    The International Joint Conference on Neural Networks (IJCNN-2021),  Publisher: IEEE, <br>
+    Virtual Event, July 18-22, 2021 <br>
     [<a href="https://ieeexplore.ieee.org/document/9533319" target="\_blank"> Proceedings </a>]
     [<a href="https://arxiv.org/abs/2104.12518" target="\_blank"> Paper </a>]
     [<a href="https://github.com/AmitRoy7781/USTGCN" target="\_blank"> Code </a>]
@@ -126,7 +128,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <b>SST-GNN: Simplified Spatio-temporal Traffic Forecasting Model using Graph Neural Network</b> <br>
     <b>Amit Roy</b><sup>*</sup>, Kashob Kumar Roy<sup>*</sup>, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman, <br>
     The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021), Publisher: Springer,<br>
-    May 11-14, 2021, Delhi, India (virtual). <br>
+    May 11-14, 2021, Delhi, India (Virtual). <br>
     [<a href="https://link.springer.com/chapter/10.1007/978-3-030-75768-7_8" target="\_blank"> Proceedings </a>]
     [<a href="https://arxiv.org/abs/2104.00055" target="\_blank"> Paper </a>]
     [<a href="https://github.com/AmitRoy7781/SST-GNN" target="\_blank"> Code </a>]
@@ -140,7 +142,8 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <p align="justify">
     <b>Node Embedding using Mutual Information and Self-Supervision based Bi-level Aggregation</b> <br>
     Kashob Kumar Roy<sup>*</sup>, <b>Amit Roy</b><sup>*</sup>, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman,<br>
-    The International Joint Conference on Neural Networks (IJCNN-2021), Publisher: IEEE, Virtual Event, July 18-22, 2021 <br>
+    The International Joint Conference on Neural Networks (IJCNN-2021), Publisher: IEEE, <br>
+    Virtual Event, July 18-22, 2021 <br>
     [<a href="https://ieeexplore.ieee.org/document/9533715" target="\_blank"> Proceedings </a>]
     [<a href="https://arxiv.org/abs/2104.13014" target="\_blank"> Paper </a>]
     [<a href="https://github.com/forkkr/LnL-GNN" target="\_blank"> Code </a>]
@@ -154,7 +157,8 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <p align="justify">
     <b>Structure-Aware Hierarchical Graph Pooling using Information Bottleneck</b> <br>
     Kashob Kumar Roy<sup>*</sup>, <b>Amit Roy</b><sup>*</sup>, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman <br>
-    The International Joint Conference on Neural Networks (IJCNN-2021), Publisher: IEEE, Virtual Event, July 18-22, 2021 <br>
+    The International Joint Conference on Neural Networks (IJCNN-2021), Publisher: IEEE, <br> 
+    Virtual Event, July 18-22, 2021 <br>
     [<a href="https://ieeexplore.ieee.org/document/9533778" target="\_blank"> Proceedings </a>]
     [<a href="https://arxiv.org/abs/2104.13012" target="\_blank"> Paper </a>]
     [<a href="https://github.com/forkkr/HIBPool" target="\_blank"> Code </a>]
@@ -182,7 +186,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <p align="justify">
     <b>Mining High Utility Subgraphs</b> <br>
     Md. Tanvir Alam, <b> Amit Roy</b>, Chowdhury Farhan Ahmed, Md. Ashraful Islam, Carson K. Leung,<br>
-    UDML 2021: 4th Workshop on Utility Driven Mining and Learning @ICDM 2021, Publisher: IEEE <br> December 7, 2021, Auckland, New Zealand (virtual) <br>
+    UDML 2021: 4th Workshop on Utility Driven Mining and Learning @ICDM 2021, Publisher: IEEE <br> December 7, 2021, Auckland, New Zealand (Virtual) <br>
     [<a href="https://ieeexplore.ieee.org/document/9679947/" target="\_blank"> Proceedings </a>]
     [<a href="https://drive.google.com/file/d/1S7DcKlQQa1ur4hlD_tW1HOTpQQJ-NKDs/" target="\_blank"> Paper </a>]     [<a href="https://github.com/tfahim15/UGMINE" target="\_blank">Code</a>]
     [<a href="assets/bibfile/UGMINE_workshop.txt" target="\_blank"> BibTex </a>]
