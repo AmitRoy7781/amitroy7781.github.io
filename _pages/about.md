@@ -280,4 +280,4 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 </ul>
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=240&t=tt&d=KbAAVdH05WgIVyOJheLnVrNP3J7FZQz_OpwEcMjij9s&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=KbAAVdH05WgIVyOJheLnVrNP3J7FZQz_OpwEcMjij9s'></script>
