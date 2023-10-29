@@ -54,6 +54,9 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
   <p align="justify">
     <li>  <strong> [Oct 2023] </strong> 
+   <font color="blue">  GAD-EBM got accepted in the NeurIPS 2023 GLFrontiers Workshop., Thanks to Prof. Pan Li and collaborator Juan Shu. </font>
+    </li>
+    <li>  <strong> [Oct 2023] </strong> 
    <font color="blue">  GAD-NR got accepted in the WSDM-2024, Thanks to Prof. Pan Li and collaborator Juan Shu. </font>
     </li>
     <li><strong> [Aug 2022] </strong> 
@@ -75,21 +78,30 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 # 📝 Publications 
 
 
-## Pre-prints:
+<!--  ## Pre-prints:
  <ul>
    
    <li>
     <p align="justify">
-    <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> (Under Review) <br>
+    <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> <br>
     <b>Amit Roy</b>, Juan Shu, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
-    [To Appear]
+    New Frontiers in Graph Learning (GLFRONTIERS), NuerIPS Workshop 2023 <br>
     </p>
   </li>
 </ul>
 
-## Accepted Manuscripts:
+## Accepted Manuscripts:-->
 
 <ul>
+
+   <li>
+    <p align="justify">
+    <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> <br>
+    <b>Amit Roy</b>, Juan Shu, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
+    New Frontiers in Graph Learning (GLFRONTIERS), NuerIPS Workshop 2023 <br>
+    </p>
+  </li>
+  
   <li>
     <p align="justify">
     <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> <br>
