@@ -54,7 +54,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
   <p align="justify">
     <li>  <strong> [Oct 2023] </strong> 
-   <font color="blue">  GAD-EBM got accepted in the NeurIPS 2023 GLFRONTIERS Workshop., Thanks to Prof. Pan Li and collaborator Juan Shu. </font>
+   <font color="blue">  GAD-EBM got accepted in the NeurIPS 2023 GLFRONTIERS Workshop, Thanks to Prof. Pan Li and collaborator Juan Shu. </font>
     </li>
     <li>  <strong> [Oct 2023] </strong> 
    <font color="blue">  GAD-NR got accepted in the WSDM-2024, Thanks to Prof. Pan Li and collaborator Juan Shu. </font>
