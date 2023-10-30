@@ -44,7 +44,7 @@ Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citation
 
 Apart from my research and academic stuff, I enjoy following and analyzing cricket and playing badminton and card games. 
 
-<font color="red"> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</font>
+<strong> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</strong>
 
 
 # 📰 News
@@ -53,11 +53,9 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
 
   <p align="justify">
-    <li>  <strong> [Oct 2023] </strong> 
-   <font color="blue">  GAD-EBM got accepted in the NeurIPS 2023 GLFRONTIERS Workshop, Thanks to Prof. Pan Li and collaborator Juan Shu. </font>
+    <li>  <strong> [Oct 2023] </strong> GAD-EBM got accepted in the <strong>NeurIPS 2023 GLFRONTIERS Workshop </strong>. 
     </li>
-    <li>  <strong> [Oct 2023] </strong> 
-   <font color="blue">  GAD-NR got accepted in the WSDM-2024, Thanks to Prof. Pan Li and collaborator Juan Shu. </font>
+    <li>  <strong> [Oct 2023] </strong> GAD-NR got accepted in the <strong> WSDM-2024 </strong>.
     </li>
     <li><strong> [Aug 2022] </strong> 
       Joined in the Ph.D. program at Purdue University - Computer Science.
