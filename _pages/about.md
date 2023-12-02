@@ -22,7 +22,7 @@ redirect_from:
 
 
 <p align="justify"> 
-I am a Ph.D. student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>. My research focus is primarily deep learning and I have experience in designing and developing deep learning models to approach real-life problems using graph machine learning. Currently, I am working on the graph anomaly detection problem under the supervision of  Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a> </p>
+I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>. My research focus is primarily deep learning and I have experience in designing and developing deep learning models to approach real-life problems using graph machine learning. Currently, I am working on the graph anomaly detection problem under the supervision of  Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a> </p>
    
 
 <p align="justify"> 
@@ -51,7 +51,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <li>  <strong> [Oct 2023] </strong> GAD-NR got accepted in the <strong> WSDM-2024 </strong>.
     </li>
     <li><strong> [Aug 2022] </strong> 
-      Joined in the Ph.D. program at Purdue University - Computer Science.
+      Joined Purdue Computer Science as a Ph.D. student.
     </li>
   </p>
   
