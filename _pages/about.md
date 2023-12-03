@@ -35,7 +35,7 @@ Prior to joining Purdue in the Fall of 2022, I worked as a research assistant in
 <p align="justify">I received my Bachelor of Science (B.Sc) degree in Computer Science and Engineering from the University of Dhaka, Dhaka, Bangladesh in August 2020 and <b> secured the 1<sup>st</sup> position in the class of 2019.</b> In my undergraduate days, I was involved in competitive programming and solved 1000+ problems in different online judges [<a href="https://www.stopstalk.com/user/profile/amitroy7781">stopstalk profile</a>]. My undergraduate research topic was Utility-based Graph Mining, supervised by 
 <a href="https://scholar.google.fr/citations?hl=en&user=0huuef0AAAAJ"> Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citations?user=UD5-rcAAAAAJ&hl"> Md. Ashraful Islam  </a>. </p>
 
-Apart from my research and academic stuff, I enjoy following and analyzing cricket and playing badminton and card games. 
+Apart from my research and academic stuff, I enjoy following and analyzing cricket, playing badminton and card games. 
 
 <strong> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</strong>
 
