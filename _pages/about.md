@@ -26,7 +26,7 @@ I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Compu
    
 
 <p align="justify"> 
-Prior to joining Purdue in the Fall of 2022, I worked as a research assistant in the <a href="https://agencylab.github.io/">Artificial Intelligence and Cybernetics Lab (AGenCy Lab)</a> at the <a href="http://www.cse.iub.edu.bd/">Department of Computer Science and Engineering</a>, <a href="http://www.iub.edu.bd/" >Independent University Bangladesh</a> where I worked on several research projects related to deep learning on graph data supported by ICT Division, Government of Bangladesh. Thanks to my supervisors <a href="https://scholar.google.com/citations?user=OqlqQTwAAAAJ&hl"> Dr. Amin Ahsan Ali</a> and <a href="https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl"> Dr. AKM Mahbubur Rahman</a>. Also, I have experience working as a software engineer at <a href="http://www.tigerit.com/"> Tiger IT Bangladesh Limited</a> where I worked as a backend developer on applied computer vision projects from real-time video data. </p>
+Before joining Purdue CS in the Fall of 2022, I worked as a research assistant in the <a href="https://agencylab.github.io/">Artificial Intelligence and Cybernetics Lab (AGenCy Lab)</a> at the <a href="http://www.cse.iub.edu.bd/">Department of Computer Science and Engineering</a>, <a href="http://www.iub.edu.bd/" >Independent University Bangladesh</a> where I worked on several research projects related to deep learning on graph data supported by ICT Division, Government of Bangladesh. Thanks to my supervisors <a href="https://scholar.google.com/citations?user=OqlqQTwAAAAJ&hl"> Dr. Amin Ahsan Ali</a> and <a href="https://scholar.google.com/citations?user=qc0_e18AAAAJ&hl"> Dr. AKM Mahbubur Rahman</a>. Also, I have experience working as a software engineer at <a href="http://www.tigerit.com/"> Tiger IT Bangladesh Limited</a> where I worked as a backend developer on applied computer vision projects from real-time video data. </p>
 
 
        
@@ -35,7 +35,7 @@ Prior to joining Purdue in the Fall of 2022, I worked as a research assistant in
 <p align="justify">I received my Bachelor of Science (B.Sc) degree in Computer Science and Engineering from the University of Dhaka, Dhaka, Bangladesh in August 2020 and <b> secured the 1<sup>st</sup> position in the class of 2019.</b> In my undergraduate days, I was involved in competitive programming and solved 1000+ problems in different online judges [<a href="https://www.stopstalk.com/user/profile/amitroy7781">stopstalk profile</a>]. My undergraduate research topic was Utility-based Graph Mining, supervised by 
 <a href="https://scholar.google.fr/citations?hl=en&user=0huuef0AAAAJ"> Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citations?user=UD5-rcAAAAAJ&hl"> Md. Ashraful Islam  </a>. </p>
 
-Apart from my research and academic stuff, I enjoy following and analyzing cricket, playing badminton and card games. 
+Apart from my research and academic stuff, I enjoy following and analyzing cricket, and playing badminton and card games. 
 
 <strong> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</strong>
 
@@ -227,11 +227,6 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
   </li>
 
 </ul>
-
-
-
-
-
 
 
 # 💻 Experience
