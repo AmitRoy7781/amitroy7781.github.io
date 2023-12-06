@@ -22,7 +22,7 @@ redirect_from:
 
 
 <p align="justify"> 
-I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>. My research focus is primarily deep learning and I have experience in designing and developing deep learning models to approach real-life problems using graph machine learning. Currently, I am working on the graph anomaly detection problem under the supervision of  Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a> </p>
+I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>. My research focus is primarily deep learning and I have experience in designing and developing deep learning models to approach real-life problems using graph machine learning. I am currently working on the graph anomaly detection problem and fortunate to be advised by  Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a> </p>
    
 
 <p align="justify"> 
