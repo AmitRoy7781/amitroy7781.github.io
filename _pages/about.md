@@ -209,8 +209,8 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
 <ul>
   <li>
-    Ph.D. Student in Department of Computer Science<br>
-    August, 2022 - May, 2027 (Expected) <br>
+    Graduate Student in Department of Computer Science<br>
+    MS Degree Expected by 2024 <br>
     <strong> Current CGPA: 3.88 out of 4.00 <br> </strong>
     Purdue University
     West Lafayette, IN, USA <br>
