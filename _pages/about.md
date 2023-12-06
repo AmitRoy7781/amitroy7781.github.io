@@ -236,6 +236,12 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 <ul>
   <li>
     <strong> </strong> 
+    CS37300:  Data Mining and Machine Learning, Spring 2024<br>
+    Instructor: Prof.  	Steve Hanneke and Prof. Ruqi Zhang 
+    
+  </li>
+  <li>
+    <strong> </strong> 
     CS57800: Statistical Machine Learning, Fall 2023<br>
     Instructor: Prof. Ruqi Zhang 
     
