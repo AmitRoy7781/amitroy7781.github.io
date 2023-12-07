@@ -46,6 +46,9 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
 
   <p align="justify">
+    <li>
+      <strong> [Dec 2023] </strong> Received NSF Student Travel Grant for attending the <strong> WSDM 2024 conference </strong>.
+    </li>
     <li>  <strong> [Oct 2023] </strong> GAD-EBM got accepted in the <strong>NeurIPS 2023 GLFRONTIERS Workshop </strong>. 
     </li>
     <li>  <strong> [Oct 2023] </strong> GAD-NR got accepted in the <strong> WSDM-2024 </strong>.
