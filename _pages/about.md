@@ -54,7 +54,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <li>  <strong> [Oct 2023] </strong> GAD-NR got accepted in the <strong> WSDM-2024 </strong>.
     </li>
     <li><strong> [Aug 2022] </strong> 
-      Started my grad school at Purdue Computer Science.
+      Started my grad school at <strong>Purdue Computer Science</strong>.
     </li>
   </p>
   
