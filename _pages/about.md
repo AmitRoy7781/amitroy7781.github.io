@@ -93,7 +93,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> <br>
     <b>Amit Roy</b>, Juan Shu, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
     New Frontiers in Graph Learning (GLFRONTIERS), NeurIPS Workshop 2023 <br>
-    [<a href=" https://drive.google.com/file/d/1vhUgf_oh337LGGUjNtJdxHiie2M_Qjb5/" target="\_blank"> Paper </a>]
+    [<a href="https://openreview.net/attachment?id=I5hf3opvgK&name=pdf" target="\_blank"> Paper </a>]
     [<a href="https://drive.google.com/file/d/1GjC6YFkWd_fblxA6SDIjwDA6o_aw6IWn/view?usp=sharing" target="\_blank"> Poster </a>]  
     [<a href="assets/bibfile/GADEBM.txt" target="\_blank"> BibTex </a>]  
     </p>
