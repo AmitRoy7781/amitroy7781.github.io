@@ -1,0 +1,6 @@
+@article{roygad,
+  title={GAD-EBM: Graph Anomaly Detection using Energy-Based Models},
+  author={Roy, Amit and Shu, Juan and Elshocht, Olivier and Smeets, Jeroen and Zhang, Ruqi and Li, Pan}
+booktitle={New Frontiers in Graph Learning (GLFrontiers) Workshop at 37th Conference on Neural Information Processing Systems.},
+  year   = {2023}
+}
