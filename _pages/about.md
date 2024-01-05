@@ -94,6 +94,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <b>Amit Roy</b>, Juan Shu, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
     New Frontiers in Graph Learning (GLFRONTIERS), NeurIPS Workshop 2023 <br>
     [<a href=" https://drive.google.com/file/d/1vhUgf_oh337LGGUjNtJdxHiie2M_Qjb5/" target="\_blank"> Paper </a>]
+    [<a href="https://drive.google.com/file/d/1GjC6YFkWd_fblxA6SDIjwDA6o_aw6IWn/view?usp=sharing" target="\_blank"> Poster </a>]  
     </p>
   </li>
   
@@ -105,6 +106,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     March 4th-8th, 2024, Mérida, Yucatán, Mexico <br>
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
     [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
+    [<a href="https://docs.pygod.org/en/latest/generated/pygod.nn.GADNRBase.html#pygod.nn.GADNRBase" target="\_blank"> PyGod </a>]  
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
     <img src="https://img.shields.io/github/stars/graph-com/GAD-NR?style=social" alt="">
     </p>
@@ -239,7 +241,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
   <li>
     <strong> </strong> 
     CS37300:  Data Mining and Machine Learning, Spring 2024<br>
-    Instructor: Prof.  	Steve Hanneke and Prof. Ruqi Zhang 
+    Instructor: Prof. Steve Hanneke and Prof. Ruqi Zhang 
     
   </li>
   <li>
