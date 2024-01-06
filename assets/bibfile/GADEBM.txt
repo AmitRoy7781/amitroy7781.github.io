@@ -1,6 +1,8 @@
-@article{roygad,
-  title={GAD-EBM: Graph Anomaly Detection using Energy-Based Models},
-  author={Roy, Amit and Shu, Juan and Elshocht, Olivier and Smeets, Jeroen and Zhang, Ruqi and Li, Pan}
-booktitle={New Frontiers in Graph Learning (GLFrontiers) Workshop at 37th Conference on Neural Information Processing Systems.},
-  year   = {2023}
+@inproceedings{
+roy2023gadebm,
+title={{GAD}-{EBM}: Graph Anomaly Detection using Energy-Based Models},
+author={Amit Roy and Juan Shu and Olivier Elshocht and Jeroen Smeets and Ruqi Zhang and Pan Li},
+booktitle={NeurIPS 2023 Workshop: New Frontiers in Graph Learning},
+year={2023},
+url={https://openreview.net/forum?id=I5hf3opvgK}
 }
