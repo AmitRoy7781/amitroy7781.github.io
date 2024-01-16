@@ -22,7 +22,7 @@ redirect_from:
 
 
 <p align="justify"> 
-I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a> and a <strong>prospective Ph.D. student for fall 2024<strong>. My research focus is primarily deep learning and I have experience in developing deep learning architectures that approach real-life problems specifically involving Graph Neural Networks (GNN). I am fortunate to get an opportunity to work on a project with  Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a> on the Graph Anomaly Detection problem, funded by Sony, Belgium. </p>
+I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a> and a <strong>prospective Ph.D. student for fall 2024</strong>. My research focus is primarily deep learning and I have experience in developing deep learning architectures that approach real-life problems specifically involving Graph Neural Networks (GNN). I am fortunate to get an opportunity to work on a project with  Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a> on the Graph Anomaly Detection problem, funded by Sony, Belgium. </p>
    
 
 <p align="justify"> 
