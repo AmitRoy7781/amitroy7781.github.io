@@ -61,7 +61,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
   <p align="justify">
     <li><strong> [Apr 2022] </strong> 
-      Offered <b><a href="https://www.purdue.edu/gradschool/fellowship/fellowship-resources-for-staff/managed-fellowships/recruitment-fellowships.html">Ross Fellowship</a></b> and selected for <b>Research Assistantship (RA)</b> position by the Purdue University - Computer Science.
+      Received <b><a href="https://www.purdue.edu/gradschool/fellowship/fellowship-resources-for-staff/managed-fellowships/recruitment-fellowships.html">Ross Fellowship</a></b> and selected for <b>Research Assistantship (RA)</b> position by the Purdue University - Computer Science.
     </li>
   </p>
 
