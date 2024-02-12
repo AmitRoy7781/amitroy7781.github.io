@@ -107,7 +107,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     March 4th-8th, 2024, Mérida, Yucatán, Mexico <br>
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
     [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
-    [<a href="https://www.youtube.com/watch?v=92QMdM6djtc" target="\_blank"> Video </a>]
+    [<a href="https://youtu.be/92QMdM6djtc" target="\_blank"> Video </a>]
     [<a href="https://docs.pygod.org/en/latest/generated/pygod.nn.GADNRBase.html#pygod.nn.GADNRBase" target="\_blank"> PyGod </a>]  
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
     <img src="https://img.shields.io/github/stars/graph-com/GAD-NR?style=social" alt="">
