@@ -34,7 +34,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 <p align="justify">I received my Bachelor of Science (B.Sc) degree in Computer Science and Engineering from the University of Dhaka, Dhaka, Bangladesh in August 2020 and <b> secured the 1<sup>st</sup> position in the class of 2019.</b> In my undergraduate days, I was involved in competitive programming and solved 1000+ problems in different online judges [<a href="https://www.stopstalk.com/user/profile/amitroy7781">stopstalk profile</a>]. My undergraduate research topic was Utility-based Graph Mining, supervised by 
 <a href="https://scholar.google.fr/citations?hl=en&user=0huuef0AAAAJ"> Dr. Chowdhury Farhan Ahmed</a> and  <a href="https://scholar.google.com/citations?user=UD5-rcAAAAAJ&hl"> Md. Ashraful Islam  </a>. </p>
 
-Apart from my research and academic stuff, I enjoy following and analyzing cricket, and playing badminton and card games. 
+Apart from my research and academic stuff, I enjoy following and analyzing cricket and playing badminton and card games. 
 
 <strong> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</strong>
 
@@ -106,6 +106,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     March 4th-8th, 2024, Mérida, Yucatán, Mexico <br>
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
     [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
+    [<a href="https://youtu.be/92QMdM6djtc" target="\_blank"> Video </a>]
     [<a href="https://docs.pygod.org/en/latest/generated/pygod.nn.GADNRBase.html#pygod.nn.GADNRBase" target="\_blank"> PyGod </a>]  
     [<a href="assets/bibfile/GADNR.txt" target="\_blank"> BibTex </a>]
     <img src="https://img.shields.io/github/stars/graph-com/GAD-NR?style=social" alt="">
