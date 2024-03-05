@@ -97,6 +97,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <b>Amit Roy</b>, Juan Shu, Jia Li, Carl Yang, Olivier	Elshocht, Jeroen	Smeets, Pan	Li <br>
     The 17th ACM International Conference on Web Search and Data Mining (WSDM-2024) <br>
     March 4th-8th, 2024, Mérida, Yucatán, Mexico <br>
+    [<a href="https://dl.acm.org/doi/10.1145/3616855.3635767"> Proceedings </a>]
     [<a href="https://arxiv.org/pdf/2306.01951.pdf" target="\_blank"> Paper </a>]
     [<a href="https://github.com/Graph-COM/GAD-NR" target="\_blank"> Code </a>]
     [<a href="https://youtu.be/92QMdM6djtc" target="\_blank"> Video </a>]
