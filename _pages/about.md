@@ -131,7 +131,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
  </ul>
   
-## Before joining Purdue:
+## Before joining Purdue CS:
  <ul>
   
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN '21</div><img src='images/ustgcn.png' alt="sym" width="100%"></div></div>
