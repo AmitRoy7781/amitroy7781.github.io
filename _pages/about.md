@@ -154,7 +154,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
   </div>
   
   
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PAKDD '21</div><img src='images/lnlgnn.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PAKDD '21</div><img src='images/sstgnn.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
