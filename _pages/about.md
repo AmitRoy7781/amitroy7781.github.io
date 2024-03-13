@@ -116,6 +116,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     New Frontiers in Graph Learning (GLFRONTIERS), NeurIPS Workshop 2023 <br>
     [<a href="https://openreview.net/attachment?id=I5hf3opvgK&name=pdf" target="\_blank"> Paper </a>]
     [<a href="https://drive.google.com/file/d/1GjC6YFkWd_fblxA6SDIjwDA6o_aw6IWn/view?usp=sharing" target="\_blank"> Poster </a>]  
+    [<a href="https://github.com/Graph-COM/GAD-EBM" target="\_blank"> Code </a>]
     [<a href="assets/bibfile/GADEBM.txt" target="\_blank"> BibTex </a>]  
     </p>
   </li>
