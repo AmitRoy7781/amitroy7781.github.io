@@ -91,6 +91,8 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 
 <ul>
   
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM '24</div><img src='images/gadnr.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction</b> <br>
@@ -108,23 +110,32 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <img src="https://img.shields.io/github/stars/graph-com/GAD-NR?style=social" alt="">
     </p>
   </li>
+  </div>
+  </div>
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NuerIPS GLFrontiers '23</div><img src='images/gadebm.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
    <li>
     <p align="justify">
     <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> <br>
     <b>Amit Roy</b>, Juan Shu, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
-    New Frontiers in Graph Learning (GLFRONTIERS), NeurIPS Workshop 2023 <br>
+    New Frontiers in Graph Learning (GLFrontiers), NeurIPS Workshop 2023 <br>
     [<a href="https://openreview.net/attachment?id=I5hf3opvgK&name=pdf" target="\_blank"> Paper </a>]
     [<a href="https://drive.google.com/file/d/1GjC6YFkWd_fblxA6SDIjwDA6o_aw6IWn/view?usp=sharing" target="\_blank"> Poster </a>]  
     [<a href="https://github.com/Graph-COM/GAD-EBM" target="\_blank"> Code </a>]
     [<a href="assets/bibfile/GADEBM.txt" target="\_blank"> BibTex </a>]  
     </p>
   </li>
-  
+  </div>
+  </div>
+
  </ul>
   
 ## Before joining Purdue:
  <ul>
+  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN '21</div><img src='images/ustgcn.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network</b> <br>
@@ -138,16 +149,19 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="assets/bibfile/USTGCN.txt" target="\_blank"> BibTex </a>]
     <img src="https://img.shields.io/github/stars/AmitRoy7781/USTGCN?style=social" alt="">  
     </p>
-
   </li>
+   </div>
+  </div>
   
   
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PAKDD '21</div><img src='images/lnlgnn.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>SST-GNN: Simplified Spatio-temporal Traffic Forecasting Model using Graph Neural Network</b> <br>
     <b>Amit Roy</b><sup>*</sup>, Kashob Kumar Roy<sup>*</sup>, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman, <br>
-    The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021), Publisher: Springer,<br>
-    May 11-14, 2021, Delhi, India (Virtual). <br>
+    The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021), <br>
+    Publisher: Springer,  May 11-14, 2021, Delhi, India (Virtual). <br>
     [<a href="https://link.springer.com/chapter/10.1007/978-3-030-75768-7_8" target="\_blank"> Proceedings </a>]
     [<a href="https://arxiv.org/abs/2104.00055" target="\_blank"> Paper </a>]
     [<a href="https://github.com/AmitRoy7781/SST-GNN" target="\_blank"> Code </a>]
@@ -156,7 +170,12 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <img src="https://img.shields.io/github/stars/AmitRoy7781/SST-GNN?style=social" alt="">      
   </p>
   </li>
+  
+  </div>
+  </div>
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN '21</div><img src='images/lnlgnn.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>Node Embedding using Mutual Information and Self-Supervision based Bi-level Aggregation</b> <br>
@@ -171,7 +190,11 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <img src="https://img.shields.io/github/stars/forkkr/LnL-GNN?style=social" alt="">    
   </p>
   </li>
+  </div>
+  </div>
   
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN '21</div><img src='images/hibpool.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>Structure-Aware Hierarchical Graph Pooling using Information Bottleneck</b> <br>
@@ -186,7 +209,11 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <img src="https://img.shields.io/github/stars/forkkr/HIBpool?style=social" alt="">      
   </p>
   </li>
+  </div>
+  </div>
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APIN Journal '22</div><img src='images/ugmine_rmupruning.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>UGMINE: Utility-based Graph Mining</b> <br>
@@ -200,7 +227,11 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
       <img src="https://img.shields.io/github/stars/tfahim15/UGMINE?style=social" alt="">
   </p>
   </li>
+  </div>
+  </div>
   
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM UDML '21</div><img src='images/ugmine.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>Mining High Utility Subgraphs</b> <br>
@@ -212,9 +243,8 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     <img src="https://img.shields.io/github/stars/tfahim15/UGMINE?style=social" alt="">      
   </p>
   </li>
-
-
-  
+  </div>
+  </div>
 
 </ul>
 
