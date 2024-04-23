@@ -124,6 +124,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
     [<a href="https://drive.google.com/file/d/1GjC6YFkWd_fblxA6SDIjwDA6o_aw6IWn/view?usp=sharing" target="\_blank"> Poster </a>]  
     [<a href="https://github.com/Graph-COM/GAD-EBM" target="\_blank"> Code </a>]
     [<a href="assets/bibfile/GADEBM.txt" target="\_blank"> BibTex </a>]  
+    <img src="https://img.shields.io/github/stars/graph-com/GAD-EBM?style=social" alt="">
     </p>
   </li>
   </div>
