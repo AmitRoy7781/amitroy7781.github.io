@@ -24,7 +24,8 @@ redirect_from:
 I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>. My research focus is primarily deep learning and I have experience in developing deep learning architectures that approach real-life problems specifically involving Graph Neural Networks (GNN). Recently, I am interested in how LLM can be incorporated with Graph ML for NLP applications. I am fortunate to get an opportunity to work with  Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a> on the Graph Anomaly Detection problem, funded by Sony, Belgium. </p>
 
 
-<strong> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</strong>
+
+<!--  <strong> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</strong> -->
 
 
 <details>
