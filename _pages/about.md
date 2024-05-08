@@ -257,7 +257,7 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
 <ul>
   <li>
     Graduate Student in Department of Computer Science<br>
-    MS Degree Expected by May 2024 <br>
+    MS Requirement Fulfilled <br>
     Purdue University - West Lafayette, IN, USA <br>
     <a href="https://www.cs.purdue.edu/people/graduate-students/roy206.html" target="\_blank"> Grad School Webpage </a>
   </li>
