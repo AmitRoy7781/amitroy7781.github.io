@@ -246,15 +246,16 @@ Apart from my research and academic stuff, I enjoy following and analyzing crick
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEMIS '18 (Poster)</div><img src='images/igest_recognito.jpeg' alt="sym" width="100%"></div></div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEMIS '19 (Poster)</div><img src='images/igest_recognito.jpeg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>iGest Recognito : Mobile App for sign language based communication</b> <br>
     <b> Amit Roy</b>,  Saif Mahmud, Tauhid Tanjim, Sarker Tanveer Ahmed Rumee, Md. Mofijul Islam <br>
-     International conference on Emerging technologies in data Mining and Information Security (IEMIS), 2018,  Kolkata, India.  
+     International conference on Emerging technologies in data Mining and Information Security (IEMIS), 2018, <br>  Kolkata, India.  
     [<a href="https://docs.google.com/presentation/d/1GZoKBmeiM-RHmjT7Iy-YgQ1SJGbBkPn4/" target="\_blank"> Poster </a>]
-    <img src="https://img.shields.io/github/stars/AmitRoy7781/iGestRecognito?style=social" alt="">      
+    <img src="https://img.shields.io/github/stars/AmitRoy7781/iGestRecognito?style=social" alt="">       
   </p>
   </li>
   </div>
