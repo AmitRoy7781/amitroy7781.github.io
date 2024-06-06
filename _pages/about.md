@@ -124,6 +124,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     [<a href="https://drive.google.com/file/d/1GjC6YFkWd_fblxA6SDIjwDA6o_aw6IWn/view?usp=sharing" target="\_blank"> Poster </a>]  
     [<a href="https://github.com/Graph-COM/GAD-EBM" target="\_blank"> Code </a>]
     [<a href="assets/bibfile/GADEBM.txt" target="\_blank"> BibTex </a>]  
+    <img src="https://img.shields.io/github/stars/graph-com/GAD-EBM?style=social" alt="">  
     </p>
   </li>
   </div>
@@ -255,6 +256,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     <b> Amit Roy</b>,  Saif Mahmud, Tauhid Tanjim, Sarker Tanveer Ahmed Rumee, Md. Mofijul Islam <br>
      International conference on Emerging technologies in data Mining and Information Security (IEMIS), 2018, <br>  Kolkata, India.  
     [<a href="https://docs.google.com/presentation/d/1GZoKBmeiM-RHmjT7Iy-YgQ1SJGbBkPn4/" target="\_blank"> Poster </a>]
+      [<a href="https://github.com/AmitRoy7781/iGestRecognito" target="\_blank">Code</a>]
     <img src="https://img.shields.io/github/stars/AmitRoy7781/iGestRecognito?style=social" alt="">       
   </p>
   </li>
