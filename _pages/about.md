@@ -297,7 +297,13 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 <ul>
   <li>
     <strong> </strong> 
-    CS37300:  Data Mining and Machine Learning, Spring 2024<br>
+    CS37300: Data Mining and Machine Learning, Fall 2024<br>
+    Instructor: Prof. Dan Goldwasser, Prof. Bruno Ribeiro
+  </li>
+  
+  <li>
+    <strong> </strong> 
+    CS37300: Data Mining and Machine Learning, Spring 2024<br>
     Instructor: Prof. Steve Hanneke and Prof. Ruqi Zhang 
     
   </li>
