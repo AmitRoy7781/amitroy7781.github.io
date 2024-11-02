@@ -21,11 +21,11 @@ redirect_from:
 
 
 <p align="justify"> 
-I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>. My research focus is primarily deep learning and I have experience in developing deep learning architectures that approach real-life problems specifically involving Graph Neural Networks (GNN). Recently, I am interested in how LLM can be incorporated with Graph ML for NLP applications. I am fortunate to get an opportunity to work on a project with  Prof. <a href="https://sites.google.com/view/panli-purdue/home"> Pan Li</a> on the Graph Anomaly Detection problem, funded by Sony, Belgium. </p>
+I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of LLM in solving graph problems. My research focus is primarily deep learning and I have experience in developing deep learning architectures that approach real-life problems specifically involving Graph Neural Networks (GNN). Until 2023, I was working on the Graph Anomaly Detection problem with  Prof. <a href="https://scholar.google.com/citations?user=IroP0EwAAAAJ"> Pan Li</a> funded project by Sony, Belgium. </p>
 
-Apart from my research and academic stuff, I enjoy following and analyzing cricket, watching movies and TV series, playing badminton and card games.
+Apart from my research and academic activities, I enjoy following and analyzing cricket, watching movies and TV series, and playing badminton and card games.
 
-<!--  <strong> I am actively looking for deep learning research internship roles for the Summer of 2024 (May 2024-August 2024).</strong> -->
+<strong> I am actively seeking applied science research internship for Summer 2025 involving LLM and GNN (May 2025-August 2025). </strong>
 
 
 <details>
