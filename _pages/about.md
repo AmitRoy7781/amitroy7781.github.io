@@ -25,7 +25,7 @@ I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Compu
 
 Apart from my research and academic activities, I enjoy following and analyzing cricket, watching movies and TV series, and playing badminton and card games.
 
-<strong> I am actively seeking applied science research internship for Summer 2025 involving LLM and GNN (May 2025-August 2025). </strong>
+<strong> I am available for applied science research internships for Summer 2025 involving LLM and GNN (May 2025-August 2025). </strong>
 
 
 <details>
@@ -274,9 +274,12 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   <li>
     Graduate Student in Department of Computer Science<br>
     Purdue University - West Lafayette, IN, USA <br>
+    August, 2022 - Present <br>
+    (MS Requirements fulfilled on May 2024) <br>
     <a href="https://www.cs.purdue.edu/people/graduate-students/roy206.html" target="\_blank"> Grad School Webpage </a>
   </li>
-  
+
+
   <li>
     B.Sc in Computer Science and Engineering<br>
     January, 2016 - January, 2020 <br>
