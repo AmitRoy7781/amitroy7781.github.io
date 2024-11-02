@@ -21,7 +21,7 @@ redirect_from:
 
 
 <p align="justify"> 
-I am a graduate student in the <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of LLM in solving graph problems. My research focus is primarily deep learning and I have experience in developing deep learning architectures that approach real-life problems specifically involving Graph Neural Networks (GNN). Until 2023, I was working on the Graph Anomaly Detection problem with  Prof. <a href="https://scholar.google.com/citations?user=IroP0EwAAAAJ"> Pan Li</a> funded project by Sony, Belgium. </p>
+I am a graduate student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of LLM in solving graph problems. My research focus is primarily deep learning and I have experience in developing deep learning architectures that approach real-life problems specifically involving Graph Neural Networks (GNN). Until 2023, I was working on the Graph Anomaly Detection problem with  Prof. <a href="https://scholar.google.com/citations?user=IroP0EwAAAAJ"> Pan Li</a> funded project by Sony, Belgium. </p>
 
 Apart from my research and academic activities, I enjoy following and analyzing cricket, watching movies and TV series, and playing badminton and card games.
 
