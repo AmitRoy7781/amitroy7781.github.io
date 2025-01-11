@@ -299,6 +299,12 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 <ul>
   <li>
     <strong> </strong> 
+    CS37300: Data Mining and Machine Learning, Spring 2025<br>
+    Instructor: Prof. Tianyi Zhang and Prof. Steve Hanneke
+  </li>
+  
+  <li>
+    <strong> </strong> 
     CS37300: Data Mining and Machine Learning, Fall 2024<br>
     Instructor: Prof. Dan Goldwasser
   </li>
