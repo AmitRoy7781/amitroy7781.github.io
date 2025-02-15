@@ -138,12 +138,12 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> <br>
     <b>Amit Roy</b>, Juan Shu, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
     New Frontiers in Graph Learning (GLFrontiers), NeurIPS Workshop 2023 <br>
+    New Orleans, Louisiana, USA <br>
     [<a href="https://openreview.net/attachment?id=I5hf3opvgK&name=pdf" target="\_blank"> Paper </a>]
     [<a href="https://drive.google.com/file/d/1GjC6YFkWd_fblxA6SDIjwDA6o_aw6IWn/view?usp=sharing" target="\_blank"> Poster </a>]  
     [<a href="https://github.com/Graph-COM/GAD-EBM" target="\_blank"> Code </a>]
     [<a href="assets/bibfile/GADEBM.txt" target="\_blank"> BibTex </a>]  
     <img src="https://img.shields.io/github/stars/graph-com/GAD-EBM?style=social" alt="">  <br>
-    New Orleans, Louisiana, USA
     </p>
   </li>
   </div>
