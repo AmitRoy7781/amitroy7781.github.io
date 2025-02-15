@@ -25,7 +25,7 @@ I am a graduate student at <a href="https://www.cs.purdue.edu/">Purdue Computer 
 
 Apart from my research and academic activities, I enjoy following and analyzing cricket, watching movies and TV series, and playing badminton and card games.
 
-<strong> I am available for applied science research internships for Summer 2025 involving LLM and GNN (May 2025-August 2025). </strong>
+<strong> I am available for applied science research internships for Summer 2025 on LLM Reasoning for Graphs (May 2025-August 2025). </strong>
 
 
 <details>
