@@ -52,9 +52,11 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
 
   <p align="justify">
-    <li>  <strong> [Oct 2023] </strong> GAD-EBM got accepted in the <strong>NeurIPS 2023 GLFRONTIERS Workshop </strong>. 
+    <li>  <strong> [Dec 2024] </strong> LKD4DyTAG got accepted in the <strong>AAAI 2025 AI for Time Series Analysis (AI4TS) Workshop</strong>. 
     </li>
-    <li>  <strong> [Oct 2023] </strong> GAD-NR got accepted in the <strong> WSDM-2024 </strong>.
+    <li>  <strong> [Oct 2023] </strong> GAD-EBM got accepted in the <strong>NeurIPS 2023 GLFRONTIERS Workshop</strong>. 
+    </li>
+    <li>  <strong> [Oct 2023] </strong> GAD-NR got accepted in the <strong> WSDM-2024</strong>.
     </li>
     <li><strong> [Aug 2022] </strong> 
       Started my grad school at <strong>Purdue Computer Science</strong>.
@@ -90,6 +92,20 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 ## Accepted Manuscripts:-->
 
 <ul>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4TS AAAI '25</div><img src='images/LKD4DyTAG.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  <li>
+    <p align="justify">
+    <b>LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs</b> <br>
+    <b>Amit Roy</b>, Ning Yan, Masood S. Mortazavi <br>
+    AI4TS: AI for Time Series Analysis @ AAAI2025<br>
+    March 4th, 2025, Philadelphia, Pennsylvania, USA <br>
+    [<a href="https://drive.google.com/file/d/1mLV3Lgj9-EBIJpuG84dyXLksy70KeGsr" target="\_blank"> Paper </a>]
+    </p>
+  </li>
+  </div>
+  </div>
   
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM '24</div><img src='images/gadnr.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -336,6 +352,13 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
 #  Research Experience
 <ul>
+
+  <li>
+    <strong>ML Algorithm Intern [May 2024 - Aug 2024]</strong> <br>
+    Futurewei Technologies 
+    <br> Santa Clara, CA, USA
+  </li>
+  
   <li>
     <strong>Research Assistant [Feb 2020 - June 2022]</strong> <br>
     Artificial Intelligence and Cybernetics Lab,<br> 
