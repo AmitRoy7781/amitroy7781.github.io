@@ -23,12 +23,13 @@ redirect_from:
 <p align="justify"> 
 I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of transformer/LLMs.<br> <br> 
   
-In recent times, I am interested in LLM reasoning-based concepts, scaling test-time compute, knowledge distillation, the mixture of experts, GRPO Algorithm, RAG, chain-of-thought etc. and how they can be utilized usage in different applications ranging from the graph, code, multi-step logical QA and causal reasoning. Besides, I have experience in developing deep learning architectures that approach real-life problems specifically involving Graph Neural Networks (GNN). I worked with  Prof. <a href="https://scholar.google.com/citations?user=IroP0EwAAAAJ"> Pan Li</a>  for a while on the Graph Anomaly Detection problem, funded by Sony, Belgium. </p>
+In recent times, I have been interested in LLM reasoning-based concepts, scaling test-time compute, knowledge distillation, the mixture of experts, GRPO Algorithm, RAG, and chain-of-thought, and how they can be utilized in different applications involving graph, code, multi-step logical QA and causal reasoning. Besides, I have experience developing deep learning architectures that approach real-life problems, specifically involving graph neural networks (GNN). I worked with  Prof. <a href="https://scholar.google.com/citations?user=IroP0EwAAAAJ"> Pan Li</a>  for a while on the Graph Anomaly Detection problem, funded by Sony, Belgium. <br>
 
 Apart from my research and academic activities, I enjoy following and analyzing cricket, watching movies and TV series, and playing badminton and card games.
 
 <strong> I am available for applied science research internships for Summer 2025 on LLM Reasoning (May 2025-August 2025). </strong>
 
+</p>
 
 <details>
   <summary> <strong> Past Experiences and Education ...</strong> </summary>
