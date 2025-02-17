@@ -27,7 +27,7 @@ In recent times, I have been interested in LLM reasoning-based concepts, scaling
 
 Apart from my research and academic activities, I enjoy following and analyzing cricket, watching movies and TV series, and playing badminton and card games. <br> <br>
 
-<strong> I am available for applied science research internships for Summer 2025 on LLM Reasoning (May 2025-August 2025). </strong>
+<strong> I am available for applied science research internships for Summer 2025 to work on LLM Reasoning (May 2025-August 2025). </strong>
 
 </p>
 
