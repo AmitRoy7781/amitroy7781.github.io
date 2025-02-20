@@ -104,7 +104,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     <b>Amit Roy</b>, Ning Yan, Masood S. Mortazavi <br>
     AI4TS: AI for Time Series Analysis, AAAI2025<br>
     March 4th, 2025, Philadelphia, Pennsylvania, USA <br>
-    [<a href="https://drive.google.com/file/d/1mLV3Lgj9-EBIJpuG84dyXLksy70KeGsr" target="\_blank"> Paper </a>]
+    [<a href="https://arxiv.org/abs/2502.10914" target="\_blank"> Paper </a>]
     </p>
   </li>
   </div>
