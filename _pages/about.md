@@ -372,7 +372,6 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 </ul>
 
 
-
 # 🎖️ Honors and Awards
 <ul>
   <li>
@@ -385,6 +384,14 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     For holding the first position in the Bachelor of Science Final Examination of 2019 in the <br> Faculty of Engineering and Technology, University of Dhaka. [<a href="https://drive.google.com/file/d/1BsCjgStrawdL277Wg7xT9OUjwyuD34t1/" target="\_blank"> Credentials </a>] <br> 
   </li>
 </ul>
+
+#  📚 Misc
+<ul>
+   <li>
+     Reviewer at AI4Time Series Workshop, AAAI 2025 
+   </li>
+</ul>
+
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=KbAAVdH05WgIVyOJheLnVrNP3J7FZQz_OpwEcMjij9s'></script>
