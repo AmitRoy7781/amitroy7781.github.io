@@ -23,9 +23,7 @@ redirect_from:
 <p align="justify"> 
 I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of transformer/LLMs.<br> <br> 
   
-In recent times, I have been interested in LLM reasoning-based concepts via post-training, e.g., scaling test-time compute, knowledge distillation, the mixture of experts, GRPO Algorithm, RAG, chain-of-thought, etc., and how they can be utilized in different applications involving graph, code, multi-step logical QA, and causal reasoning. Besides, I have experience developing deep learning architectures that approach real-life problems, specifically involving Graph Neural Networks (GNN). I worked with  Prof. <a href="https://scholar.google.com/citations?user=IroP0EwAAAAJ"> Pan Li</a>  for a while on the Graph Anomaly Detection problem, funded by Sony, Belgium. <br> <br>
-
-Apart from my research and academic activities, I enjoy following and analyzing cricket, watching movies and TV series, and playing badminton and card games. <br> <br>
+In recent times, I have been interested in LLM reasoning-based concepts via post-training, e.g., scaling test-time compute, knowledge distillation, the mixture of experts, GRPO Algorithm, RAG, chain-of-thought, etc., and how they can be utilized in different applications involving graph, code, multi-step logical QA, and causal reasoning. Besides, I have experience developing deep learning architectures that approach real-life problems, specifically involving Graph Neural Networks (GNN). I worked with  Prof. <a href="https://scholar.google.com/citations?user=IroP0EwAAAAJ"> Pan Li</a>  for a while on the Graph Anomaly Detection problem, funded by Sony, Belgium. <br>
 
 <strong> I am available for applied science research internships for Summer 2025 to work on LLM Reasoning (May 2025-August 2025). </strong>
 
@@ -385,13 +383,20 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   </li>
 </ul>
 
-#  📚 Misc
+#  📚 Reviewing Services
 <ul>
    <li>
      Reviewer at AI4Time Series Workshop, AAAI 2025 
    </li>
 </ul>
 
+#  Misc
+
+<ul>
+   <li>
+     Enjoy following and analyzing cricket, watching movies/tv-series, playing badminton, and card games.
+   </li>
+</ul>
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=KbAAVdH05WgIVyOJheLnVrNP3J7FZQz_OpwEcMjij9s'></script>
