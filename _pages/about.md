@@ -104,6 +104,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     March 4th, 2025, Philadelphia, Pennsylvania, USA <br>
     [<a href="https://arxiv.org/abs/2502.10914" target="\_blank"> Paper </a>]
     [<a href="https://drive.google.com/file/d/1x27HTRFYZ4qFsc4_oGSRpqn2we66zO-h/" target="\_blank"> Poster </a>]
+    [<a href="assets/bibfile/LKD4DyTAG" target="\_blank"> BibTex </a>]  
     </p>
   </li>
   </div>
