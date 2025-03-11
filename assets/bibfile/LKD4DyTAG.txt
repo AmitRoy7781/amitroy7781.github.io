@@ -1,0 +1,6 @@
+@article{roy2025llm,
+  title={LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs},
+  author={Roy, Amit and Yan, Ning and Mortazavi, Masood},
+  journal={arXiv preprint arXiv:2502.10914},
+  year={2025}
+}
