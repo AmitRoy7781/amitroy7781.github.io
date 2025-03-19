@@ -358,6 +358,12 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 <ul>
 
   <li>
+    <strong>PhD Student [August 2022 - Present]</strong> <br>
+    Department of Computer Science, Purdue University<br> 
+    West Lafayette, IN, USA
+  </li>
+
+  <li>
     <strong>ML Algorithm Intern [May 2024 - Aug 2024]</strong> <br>
     Futurewei Technologies 
     <br> Santa Clara, CA, USA
@@ -365,8 +371,8 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   
   <li>
     <strong>Research Assistant [Feb 2020 - June 2022]</strong> <br>
-    Artificial Intelligence and Cybernetics Lab,<br> 
-    Independent University, Bangladesh (<a href="https://agencylab.github.io/" target="\_blank">AGenCy Lab @ IUB</a>) 
+    Artificial Intelligence and Cybernetics Lab<br> 
+    Independent University, Bangladesh 
     <br> Dhaka, Bangladesh
   </li>
 </ul>
