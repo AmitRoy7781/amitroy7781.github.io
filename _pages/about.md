@@ -132,7 +132,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NuerIPS GLFrontiers '23</div><img src='images/gadebm.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS GLFrontiers '23</div><img src='images/gadebm.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
    <li>
     <p align="justify">
