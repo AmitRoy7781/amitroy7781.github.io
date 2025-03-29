@@ -394,7 +394,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 #  📚 Reviewing Services
 <ul>
    <li>
-     Reviewer at AI4Time Series Workshop, AAAI 2025 
+     Reviewer at ACL 2025, AI 4 Time Series AAAI 2025 
    </li>
 </ul>
 
