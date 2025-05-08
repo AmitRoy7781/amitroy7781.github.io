@@ -25,7 +25,6 @@ I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Scien
   
 In recent times, I have been interested in LLM reasoning-based concepts via post-training, e.g., scaling test-time compute, policy optimization algorithms e.g. DPO/PPO/GRPO, knowledge distillation, the mixture of experts,  RAG, chain-of-thought, etc., and how we can improve them for different applications involving graph reasoning, information retrieval and knowledge editing. I am experienced in developing deep learning architectures for real-life applications involving LLMs and GNNs. <br>
 
-<strong> I am available for applied science research internships for Summer 2025 to work on LLM Reasoning (May 2025-August 2025). </strong>
 
 </p>
 
