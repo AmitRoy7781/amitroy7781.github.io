@@ -23,7 +23,7 @@ redirect_from:
 <p align="justify"> 
 I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of transformer/LLMs.<br> <br> 
   
-Recently, I have been interested in exploring the capabilities of transformer architecture for graph/logical/causal reasoning. I am experienced in developing deep learning architectures for real-life applications involving LLMs and GNNs. I am a self-motivated individual who can do a bug-free, readable, space and memory efficient implementation in real-quick time.<br>
+Recently, I have been interested in exploring the capabilities and limitations of transformer architecture for graph/logical/causal reasoning. I am experienced in developing deep learning architectures for real-life applications involving LLMs and GNNs. Also, I am a very self-motivated individual who can do bug-free, readable, space and memory-efficient implementations in real-quick time.<br>
 
 
 </p>
