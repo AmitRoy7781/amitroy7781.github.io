@@ -313,6 +313,39 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
 # 💻 Experience
 
+#  Research Experience
+<ul>
+
+  <li>
+    <strong>PhD Student [August 2022 - Present]</strong> <br>
+    Department of Computer Science, Purdue University<br> 
+    West Lafayette, IN, USA
+  </li>
+
+  <li>
+    <strong>ML Algorithm Intern [May 2024 - Aug 2024]</strong> <br>
+    Futurewei Technologies 
+    <br> Santa Clara, CA, USA
+  </li>
+  
+  <li>
+    <strong>Research Assistant [Feb 2020 - June 2022]</strong> <br>
+    Artificial Intelligence and Cybernetics Lab<br> 
+    Independent University, Bangladesh 
+    <br> Dhaka, Bangladesh
+  </li>
+</ul>
+
+#  Industry Experience
+
+<ul>
+  <li>
+    <b>Software Engineer [December 2020 - August 2022]</b> <br>
+    Tiger IT Bangladesh Limited <br>
+    Dhaka, Bangladesh 
+  </li> 
+</ul> 
+
 #  Teaching Experience
 <b>Teaching Assistant, Department of Computer Science, Purdue University</b>
 <ul>
@@ -343,38 +376,9 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 </ul>
 
 
-#  Industry Experience
 
-<ul>
-  <li>
-    <b>Software Engineer [December 2020 - August 2022]</b> <br>
-    Tiger IT Bangladesh Limited <br>
-    Dhaka, Bangladesh 
-  </li> 
-</ul> 
 
-#  Research Experience
-<ul>
 
-  <li>
-    <strong>PhD Student [August 2022 - Present]</strong> <br>
-    Department of Computer Science, Purdue University<br> 
-    West Lafayette, IN, USA
-  </li>
-
-  <li>
-    <strong>ML Algorithm Intern [May 2024 - Aug 2024]</strong> <br>
-    Futurewei Technologies 
-    <br> Santa Clara, CA, USA
-  </li>
-  
-  <li>
-    <strong>Research Assistant [Feb 2020 - June 2022]</strong> <br>
-    Artificial Intelligence and Cybernetics Lab<br> 
-    Independent University, Bangladesh 
-    <br> Dhaka, Bangladesh
-  </li>
-</ul>
 
 
 # 🎖️ Honors and Awards
