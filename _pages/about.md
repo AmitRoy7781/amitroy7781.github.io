@@ -322,6 +322,11 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   </li>
 
   <li>
+    <strong>Applied Scientist Intern [May 2025 - Aug 2025]</strong> <br>
+    Amazon <br> Bellevue, WA, USA
+  </li>
+
+  <li>
     <strong>ML Algorithm Intern [May 2024 - Aug 2024]</strong> <br>
     Futurewei Technologies 
     <br> Santa Clara, CA, USA
