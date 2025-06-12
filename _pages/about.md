@@ -23,7 +23,7 @@ redirect_from:
 <p align="justify"> 
 I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of transformer/LLMs and working as an applied scientist intern at Amazon for summer 2025 on Finance Technology. <br> <br> 
   
-Recently, I have been interested in exploring the capabilities and drawbacks of transformer architecture for graph/logical/causal reasoning. I am experienced in developing deep learning architectures for real-life applications involving LLMs and graph-based machine learning. Also, I am a very self-motivated individual who can do bug-free, readable, space and memory-efficient implementations in real-quick time. <br>
+Recently, I have been interested in exploring the capabilities and drawbacks of transformer architecture for graph/logical/causal reasoning and how we can incorporate agents to solve them. I am experienced in developing deep learning architectures for real-life applications involving LLMs and graph-based machine learning. Also, I am a very self-motivated individual who can do bug-free, readable, space and memory-efficient implementations in real-quick time. <br>
 
 </p>
 
