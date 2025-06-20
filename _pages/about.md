@@ -51,6 +51,8 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
 
   <p align="justify">
+    <li>  <strong> [May 2025] </strong> Working as an Applied Scientist Intern at Amazon in the Financy Technology (FinTech) Team for Summer 2025 </strong>. 
+    </li>
     <li>  <strong> [Dec 2024] </strong> LKD4DyTAG got accepted in the <strong>AAAI 2025 AI for Time Series Analysis (AI4TS) Workshop</strong>. 
     </li>
     <li>  <strong> [Oct 2023] </strong> GAD-EBM got accepted in the <strong>NeurIPS 2023 GLFRONTIERS Workshop</strong>. 
