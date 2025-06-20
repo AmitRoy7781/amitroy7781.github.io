@@ -325,7 +325,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
   <li>
     <strong>Applied Scientist Intern [May 2025 - Aug 2025]</strong> <br>
-    Amazon <br> Bellevue, WA, USA
+    Finance Technology, Amazon <br> Bellevue, WA, USA
   </li>
 
   <li>
