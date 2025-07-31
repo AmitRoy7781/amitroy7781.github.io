@@ -292,7 +292,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
 <ul>
   <li>
-    Graduate Student in Department of Computer Science<br>
+    PhD Student in Department of Computer Science<br>
     Purdue University - West Lafayette, IN, USA <br>
     August, 2022 - Present <br>
     (MS Requirements fulfilled on May 2024) <br>
