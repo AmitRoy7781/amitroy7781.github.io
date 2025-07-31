@@ -355,6 +355,12 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 #  Teaching Experience
 <b>Teaching Assistant, Department of Computer Science, Purdue University</b>
 <ul>
+   <li>
+    <strong> </strong> 
+    CS37300: Data Mining and Machine Learning, Fall 2025<br>
+    Instructor: Prof. Dan Goldwasser and Prof. Bruno Ribeiro
+  </li>
+  
   <li>
     <strong> </strong> 
     CS37300: Data Mining and Machine Learning, Spring 2025<br>
