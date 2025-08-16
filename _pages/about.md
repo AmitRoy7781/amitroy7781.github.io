@@ -21,9 +21,9 @@ redirect_from:
 
 
 <p align="justify"> 
-I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of transformer/LLMs and working as an applied scientist intern at Amazon for summer 2025 on Finance Technology. <br> <br> 
+I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the capabilities of transformer/LLMs for graphs. <br> <br> 
   
-Recently, I have been interested in exploring the capabilities of transformer-based LLMs for graph/logical/causal reasoning. I have experience in developing deep learning architectures for real-life applications that involve LLMs and graph-based machine learning. Also, I am a very self-motivated individual who can do readable, bug-free, time and memory-efficient implementations of scientific ideas in real-quick time. <br>
+Recently, I have been exploring the capabilities of transformer-based LLMs for graph/logical/causal reasoning. Besides, I contributed to LLM-Agent and RAG-based systems for accurate information retrieval from natural language instructions. Additionally, I have experience in developing deep learning architectures for real-life applications that involve LLMs and graph-based machine learning. Also, I am a self-motivated individual, capable of producing readable, bug-free, time and memory-efficient implementations of scientific ideas in real-quick time. <br>
 
 </p>
 
@@ -320,13 +320,13 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
   <li>
     <strong>Applied Scientist Intern [May 2025 - Aug 2025]</strong> <br>
-    Finance Technology, Amazon <br> Bellevue, WA, USA
+    Finance Technology, Amazon <br> Bellevue, Washington, United States
   </li>
 
   <li>
     <strong>ML Algorithm Intern [May 2024 - Aug 2024]</strong> <br>
     Futurewei Technologies 
-    <br> Santa Clara, CA, USA
+    <br> Santa Clara, California, United States
   </li>
 
   <li>
@@ -343,7 +343,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   <li>
     <strong>PhD Student [August 2022 - Present]</strong> <br>
     Department of Computer Science, Purdue University<br> 
-    West Lafayette, IN, USA
+    West Lafayette, Indiana, United States
   </li>
 
   
