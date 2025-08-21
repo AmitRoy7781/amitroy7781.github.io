@@ -25,7 +25,7 @@ I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Scien
   
 Recently, I have been exploring the capabilities of transformer-based LLMs for graph/logical/causal reasoning. Besides, I contributed to generative AI projects for accurate information retrieval from natural language instructions using RAG and LLM Agents. Additionally, I have experience in developing deep learning architectures for real-life applications that involve LLMs and graph-based machine learning.  <br><br>
 
-Being a self-motivated individual, I aim to understand the intuition behind principled mathematical formulations of different problems, which helps me develop interpretable, correct, time and memory-efficient implementations of scientific ideas in real-quick time. <br>
+Being a self-motivated individual, I aim to understand the intuition behind mathematical principled solution of different problems, which helps me develop interpretable, correct, time and memory-efficient implementations of scientific ideas in real-quick time. <br>
 </p>
 
 <details>
