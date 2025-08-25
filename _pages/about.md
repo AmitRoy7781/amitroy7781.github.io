@@ -52,7 +52,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
 
   <p align="justify">
-    <li>  <strong> [May 2025] </strong>  Started working as an Applied Scientist Intern in the Finance Technology team at <strong> Amazon </strong> for Summer 2025.  
+    <li>  <strong> [May 2025] </strong> Worked as an Applied Scientist Intern in the Finance Technology team at <strong> Amazon </strong> for Summer 2025.  
     </li>
     <li>  <strong> [Dec 2024] </strong> LKD4DyTAG got accepted in the <strong>AAAI 2025 AI for Time Series Analysis (AI4TS) Workshop</strong>. 
     </li>
