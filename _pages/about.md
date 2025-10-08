@@ -300,7 +300,6 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     PhD Student in Department of Computer Science<br>
     Purdue University - West Lafayette, IN, USA <br>
     August, 2022 - Present <br>
-    (MS Requirements fulfilled on May 2024) <br>
     <a href="https://www.cs.purdue.edu/people/graduate-students/roy206.html" target="\_blank"> Grad School Webpage </a>
   </li>
 
