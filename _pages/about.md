@@ -94,6 +94,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     Under Review<br>
     [<a href="https://arxiv.org/abs/2509.22343" target="\_blank"> Paper </a>]
     [<a href="https://github.com/amitroy7781/transformers_graph_connectivity" target="\_blank"> Code </a>]
+    [<a href="assets/bibfile/transformers_graph_connectivity.txt" target="\_blank"> BibTex </a>] 
     </p>
   </li>
   </div>
