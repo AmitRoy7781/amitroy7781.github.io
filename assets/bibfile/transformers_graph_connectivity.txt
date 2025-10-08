@@ -1,0 +1,6 @@
+@article{roy2025transformers,
+  title={Transformers Can Learn Connectivity in Some Graphs but Not Others},
+  author={Roy, Amit and Saparov, Abulhair},
+  journal={arXiv preprint arXiv:2509.22343},
+  year={2025}
+}
