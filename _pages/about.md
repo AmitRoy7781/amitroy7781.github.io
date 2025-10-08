@@ -81,21 +81,23 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 # 📝 Publications 
 
 
-<!--  ## Pre-prints:
- <ul>
-   
-   <li>
-    <p align="justify">
-    <b>GAD-EBM: Graph Anomaly Detection using Energy-Based Models</b> <br>
-    <b>Amit Roy</b>, Juan Shu, Olivier	Elshocht, Jeroen	Smeets, Ruqi Zhang, Pan	Li <br>
-    New Frontiers in Graph Learning (GLFRONTIERS), NuerIPS Workshop 2023 <br>
-    </p>
-  </li>
-</ul>
 
-## Accepted Manuscripts:-->
 
 <ul>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/grid_graph.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  <li>
+    <p align="justify">
+    <b>Transformers Can Learn Connectivity in Some Graphs but Not Others <br>
+    <b>Amit Roy</b>, Abulhair Saparov<br>
+    Under Review<br>
+    [<a href="https://arxiv.org/abs/2509.22343" target="\_blank"> Paper </a>]
+    [<a href="https://github.com/amitroy7781/transformers_graph_connectivity" target="\_blank"> Code </a>]
+    </p>
+  </li>
+  </div>
+  </div>
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4TS AAAI '25</div><img src='images/LKD4DyTAG.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
