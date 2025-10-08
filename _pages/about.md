@@ -89,7 +89,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
-    <b>Transformers Can Learn Connectivity in Some Graphs but Not Others <br>
+    <b>Transformers Can Learn Connectivity in Some Graphs but Not Others </b> <br>
     <b>Amit Roy</b>, Abulhair Saparov<br>
     Under Review<br>
     [<a href="https://arxiv.org/abs/2509.22343" target="\_blank"> Paper </a>]
