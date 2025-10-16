@@ -28,7 +28,7 @@ Recently, I have been exploring the reasoning capabilities of transformers and L
 Being a self-motivated individual, I aim to understand the intuition behind the mathematical formulation of different research problems as well as their solution, in order to develop interpretable, correct, time and memory-efficient implementations of scientific ideas in real-quick time. <br>
 </p>
 
-<strong> I am actively looking for research internship for Spring/Summer 2026. </strong>
+<strong> I am actively looking for research internship for Summer 2026. </strong>
 
 <details>
   <summary> <strong> Past Experiences and Education ...</strong> </summary>
