@@ -23,7 +23,7 @@ Hello, I am Amit.<br> <br>
 <p align="justify"> 
 I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the reasoning capabilities of transformer-based LLMs. <br> <br> 
   
-Recently, I have been exploring the reasoning capabilities of transformers and LLMs on graph/logical/causal/multimodal data and how scaling model/data size as well as RL-based post-training methods, e.g., DPO/PPO/GRPO, impact the reasoning capability. Besides, I contributed to generative AI projects for accurate information retrieval from natural language instructions using RAG and code-based LLM Agents. In addition, I have experience in developing deep learning architectures for real-life applications in the intersection of LLMs and Graph Machine Learning.  <br><br>
+Recently, I have been exploring the reasoning capabilities of transformers and LLMs on graph/logical/causal/multimodal data and how scaling model/data size, context engineering, as well as RL-based post-training methods, e.g., DPO/PPO/GRPO, impact the reasoning capability. Besides, I contributed to generative AI projects for accurate information retrieval from natural language instructions using RAG and code-based LLM Agents. In addition, I have experience in developing deep learning architectures for real-life applications in the intersection of LLMs and Graph Machine Learning.  <br><br>
 
 Being a self-motivated individual, I aim to understand the intuition behind the mathematical formulation of different research problems as well as their solution, in order to develop interpretable, correct, time and memory-efficient implementations of scientific ideas in real-quick time. <br>
 </p>
