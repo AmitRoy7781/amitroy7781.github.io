@@ -21,13 +21,13 @@ Hello, I am Amit.<br> <br>
 
 
 <p align="justify"> 
-I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the reasoning capabilities of transformer-based LLMs. <br> 
+I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the reasoning capabilities of transformer-based LLMs. </br> 
   
-Recently, I have been interested in how the reasoning capabilities of language models can be improved by scaling model/data/context scaling as well as post-training methods e.g., test-time scaling, sampling, Retrieval Augmented Generation (RAG), context-engineering, Supervised Finetuning (SFT)/Reinforcement Learning (RL)-based finetuning approaches. <br>
+Recently, I have been interested in how the reasoning capabilities of language models can be improved by scaling model/data/context scaling as well as post-training methods e.g., test-time scaling, sampling, Retrieval Augmented Generation (RAG), context-engineering, Supervised Finetuning (SFT)/Reinforcement Learning (RL)-based finetuning approaches.  </br> 
 
-Besides, I contributed to generative AI projects for accurate information retrieval from natural language instructions using RAG and code-based LLM Agents. In addition, I have experience in developing deep learning architectures for real-life applications in the intersection of LLMs and Graph Machine Learning.  <br>
+Besides, I contributed to generative AI projects for accurate information retrieval from natural language instructions using RAG and code-based LLM Agents. In addition, I have experience in developing deep learning architectures for real-life applications in the intersection of LLMs and Graph Machine Learning.   </br> 
 
-Being a self-motivated individual, I aim to understand the intuition behind the mathematical formulation of different research problems as well as their solution, in order to develop interpretable, correct, time and memory-efficient implementations of scientific ideas in real-quick time. <br>
+Being a self-motivated individual, I aim to understand the intuition behind the mathematical formulation of different research problems as well as their solution, in order to develop interpretable, correct, time and memory-efficient implementations of scientific ideas in real-quick time.  </br> 
 </p>
 
 <strong> I am actively looking for PhD research internship for Summer 2026. </strong>
