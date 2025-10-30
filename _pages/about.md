@@ -30,7 +30,7 @@ Besides, I contributed to generative AI projects for accurate information retrie
 Being a self-motivated individual, I aim to understand the intuition behind the mathematical formulation of different research problems as well as their solution, in order to develop interpretable, correct, time and memory-efficient implementations of scientific ideas in real-quick time.  <br><br> 
 </p>
 
-<strong> I am actively looking for PhD research internship for Summer 2026. </strong>
+<strong> I am actively looking for PhD research internship for Summer 2026 to work on improving LLM reasoning. </strong>
 
 <details>
   <summary> <strong> Past Experiences and Education ...</strong> </summary>
