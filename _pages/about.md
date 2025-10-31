@@ -307,6 +307,11 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     <a href="https://www.cs.purdue.edu/people/graduate-students/roy206.html" target="\_blank"> Grad School Webpage </a>
   </li>
 
+  <li>
+    Master of Science in Computer Science<br>
+    Purdue University - West Lafayette, IN, USA <br>
+    August, 2022 - May 2025 <br>
+  </li>
 
   <li>
     B.Sc in Computer Science and Engineering<br>
