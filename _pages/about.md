@@ -23,7 +23,7 @@ Hello, I am Amit.<br> <br>
 <p align="justify"> 
 I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, investigating the reasoning capabilities of transformer-based LLMs. <br><br> 
   
-Recently, I have been interested in how the reasoning capabilities of language models of different kinds, e.g., autoregressive/diffusion-based models, can be improved and optimized by scaling model/data/context size as well as post-training methods, e.g., in-context learning, test-time scaling, base-model sampling, Retrieval Augmented Generation (RAG), context-engineering, Supervised Finetuning (SFT)/ Reinforcement Learning (RL)-based finetuning approaches.  <br><br> 
+Recently, I have been interested in how the reasoning capabilities of language models of different kinds, e.g., autoregressive/diffusion-based models, can be improved and optimized by scaling model/data/context size as well as post-training methods, e.g., in-context learning, test-time scaling, base-model sampling, Retrieval Augmented Generation (RAG), context-engineering, Supervised Finetuning (SFT)/ Reinforcement Learning (RL)-based finetuning and alignment methods e.g., DPO/PPO/GRPO etc..  <br><br> 
 
 Besides, I contributed to generative AI projects for accurate information retrieval from structured documents through natural language instructions using RAG and code-based LLM Agents. In addition, I have experience in developing deep learning architectures for real-life applications in the intersection of LLMs and Graph Machine Learning.   <br><br> 
 
