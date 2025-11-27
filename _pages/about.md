@@ -17,7 +17,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Hello, I am Amit.<br> <br>
+Hello, I am Amit Roy.<br> <br>
 
 
 <p align="justify"> 
