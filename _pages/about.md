@@ -87,7 +87,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
 <ul>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/grid_graph.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Project</div><img src='images/grid_graph.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
