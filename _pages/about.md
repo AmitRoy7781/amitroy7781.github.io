@@ -374,7 +374,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   <li>
     <strong> </strong> 
     CS37300: Data Mining and Machine Learning, Spring 2026<br>
-    Instructors: Prof. Mary Anne Smart, Prof. Ruqi Zhang, Prof. Rajiv Khanna
+    Instructors: Prof. Rajiv Khanna, Prof. Mary Anne Smart, Prof. Ruqi Zhang
   </li>
   
    <li>
