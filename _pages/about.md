@@ -364,7 +364,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     <strong>Research Assistant [Feb 2020 - June 2022]</strong> <br>
     Artificial Intelligence and Cybernetics Lab<br> 
     Independent University, Bangladesh 
-    <br> Dhaka, Bangladesh
+    <br> Banani, Dhaka, Bangladesh
   </li>
 </ul>
 
