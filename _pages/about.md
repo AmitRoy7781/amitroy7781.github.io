@@ -345,7 +345,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   <li>
     <b>Software Engineer [December 2020 - August 2022]</b> <br>
     Tiger IT Bangladesh Limited <br>
-    Dhaka, Bangladesh 
+    Banani, Dhaka, Bangladesh 
   </li> 
   
 </ul> 
