@@ -50,6 +50,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 </details>
    
 
+<!--
 # 📰 News
 
 <ul>
@@ -76,7 +77,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
     </li>
   </p>
 
-</ul>
+</ul>  -->
 
 
 
