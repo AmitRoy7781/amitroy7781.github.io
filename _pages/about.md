@@ -331,7 +331,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 <ul>
  <li>
     <strong>Applied Scientist Intern [May 2026 - Aug 2026]</strong> <br>
-    Finance Technology, Amazon <br> Sunnyvale, California, United States
+    Prime Video and Personalized Discovery, Amazon <br> Sunnyvale, California, United States
   </li>
 
   <li>
