@@ -329,6 +329,10 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 #  Industry Experience
 
 <ul>
+ <li>
+    <strong>Applied Scientist Intern [May 2026 - Aug 2026]</strong> <br>
+    Finance Technology, Amazon <br> Sunnyvale, California, United States
+  </li>
 
   <li>
     <strong>Applied Scientist Intern [May 2025 - Aug 2025]</strong> <br>
@@ -338,7 +342,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
   <li>
     <strong>ML Algorithm Intern [May 2024 - Aug 2024]</strong> <br>
     Futurewei Technologies 
-    <br> Santa Clara, California, United States
+    <br> Santa Clara/San Jose, California, United States
   </li>
 
   <li>
@@ -370,6 +374,12 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 #  Teaching Experience
 <b>Teaching Assistant, Department of Computer Science, Purdue University</b>
 <ul>
+   <li>
+    <strong> </strong> 
+    CS37300: Data Mining and Machine Learning, Fall 2026<br>
+    Instructors: Prof. Ruqi Zhang, Prof. Sotirios Nousias
+  </li>
+  
   <li>
     <strong> </strong> 
     CS37300: Data Mining and Machine Learning, Spring 2026<br>
