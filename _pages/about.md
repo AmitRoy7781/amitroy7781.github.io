@@ -21,9 +21,9 @@ Hello, I am Amit Roy.<br> <br>
 
 
 <p align="justify"> 
-I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, working on reasoning with LLMs for different applied problems. <br><br> 
+I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, working on LLM-based post-training for different applied problems. <br><br> 
   
-Recently, I have been interested in how the reasoning capabilities of language models of different kinds, e.g., autoregressive/diffusion-based models, can be utilized to solve different real-world problems by scaling model/data/context size as well as post-training methods, e.g., in-context learning, Retrieval Augmented Generation (RAG), context-engineering, test-time scaling, base-model sampling, Supervised FineTuning (SFT)/ Reinforcement Learning (RL)-based finetuning and alignment methods, e.g., DPO/PPO/GRPO,  etc.  <br><br> 
+Recently, I have been interested in how the reasoning capabilities of language models of different kinds, e.g., autoregressive/diffusion-based models, can be utilized to solve different real-world problems by post-training methods, e.g., in-context learning, Retrieval Augmented Generation (RAG), context-engineering, test-time scaling, base-model sampling, Supervised Fine-Tuning (SFT)/ Reinforcement Learning (RL)-based fine-tuning and alignment methods, e.g., DPO/PPO/GRPO,  etc.  <br><br> 
 
 Besides, I contributed to generative AI projects with the Prime Video and Personalization Discovery Team at <a href="https://www.amazon.science/author/amit-roy">Amazon</a> for personalized reranking of retrieved videos from user queries using reinforcement learning, and the Finance Technology team for accurate information retrieval from structured documents e.g. spreadsheets, through natural language instructions using RAG for metadata retrieval and code-based LLM Agents. In addition, I have experience in developing deep learning architectures for real-life applications involving LLMs and Graph Machine Learning. <br><br> 
 
