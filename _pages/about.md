@@ -88,14 +88,13 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 
 <ul>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Project</div><img src='images/grid_graph.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings</div><img src='images/grid_graph.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   <li>
     <p align="justify">
     <b>Transformers Can Learn Connectivity in Some Graphs but Not Others</b> <br>
     <b>Amit Roy</b>, Abulhair Saparov<br>
     [<a href="https://github.com/amitroy7781/transformers_graph_connectivity" target="\_blank"> Code </a>]
-    [<a href="assets/bibfile/transformers_graph_connectivity.txt" target="\_blank"> BibTex </a>] 
     <img src="https://img.shields.io/github/stars/amitroy7781/transformers_graph_connectivity?style=social" alt="">
     </p>
   </li>
