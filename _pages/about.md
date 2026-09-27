@@ -330,19 +330,22 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 <ul>
  <li>
     <strong>Applied Scientist Intern [May 2026 - Aug 2026]</strong> <br>
-    Prime Video Personalization and Discovery, Amazon <br> Sunnyvale, California, United States
-  </li>
+    Prime Video Personalization and Discovery, Amazon <br> Sunnyvale, California, United States <br>
+    Project: Personalized Video Re-ranking via Reinforcement Learning with Criterion-Level Credit Assignment
+  </li><br>
 
   <li>
     <strong>Applied Scientist Intern [May 2025 - Aug 2025]</strong> <br>
-    Finance Technology, Amazon <br> Bellevue, Washington, United States
-  </li>
+    Finance Technology, Amazon <br> Bellevue, Washington, United States <br>
+    Project: Natural Language-based Question Answering from Multiple Spreadsheets via RAG and code-based LLM Agents
+  </li><br>
 
   <li>
     <strong>ML Algorithm Intern [May 2024 - Aug 2024]</strong> <br>
     Futurewei Technologies 
-    <br> Santa Clara/San Jose, California, United States
-  </li>
+    <br> Santa Clara/ San Jose, California, United States <br>
+    Project: LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs
+  </li><br>
 
   <li>
     <b>Software Engineer [December 2020 - August 2022]</b> <br>
