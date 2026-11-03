@@ -436,7 +436,7 @@ Before joining Purdue CS in the Fall of 2022, I worked as a research assistant i
 #  📚 Reviewing Services
 <ul>
    <li>
-    LOG 2025, ACL 2025, AI for Agents @ COLM 2025 , AI for Time Series @ AAAI 2025 
+    ICLR 2027, LOG 2025, ACL 2025, AI for Agents @ COLM 2025 , AI for Time Series @ AAAI 2025 
    </li>
 </ul>
 
