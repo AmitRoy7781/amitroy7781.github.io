@@ -21,7 +21,7 @@ Hello, I am Amit Roy.<br> <br>
 
 
 <p align="justify"> 
-I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, working on LLM-based post-training for different applied problems. <br><br> 
+I am a PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, working on LLM-based post-training for personalized applications e.g. social media personalization, personalized ranking and personalized NLQA from conversational data. <br><br> 
   
 Recently, I have been interested in how the reasoning capabilities of language models of different kinds, e.g., autoregressive/diffusion-based models, can be utilized to address different real-world problems with popular post-training methods, e.g., in-context learning, Retrieval Augmented Generation (RAG), context-engineering, test-time scaling, base-model sampling, instruction tuning/Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL)-based fine-tuning/alignment methods, e.g., DPO/PPO/GRPO algorithms,  etc.  <br><br> 
 
